@@ -1,0 +1,16 @@
+Bot>> Hello! How can I assist you today?
+
+User>>hi. i think i'm getting depressed and i wanted to use counseling in university but i don't know how?
+
+Bot>> Based on the information provided, if you are feeling depressed and would like to use counseling services at the university, you can access counseling and mental health support by visiting the Counseling and Mental Health Support office located at SUB 3100, 8888 University Drive, Simon Fraser University, Burnaby, BC, V5A 1S6. The office is open Monday to Friday from 10 am to 4 pm. Additionally, you can also access free, confidential counseling support by using the My SSP app, contacting the front desk during operating hours at 778-782-4615, or calling the Crisis Centre in BC or Canada 24/7/365.
+
+For more information, you can visit the SFU Health and Counselling Services website at https://olc.sfu.ca/program/sfu-health-and-counselling-services.
+
+User>>How can I access counseling services at the university if I am feeling depressed?
+
+Bot>> If you are feeling depressed and would like to access counseling services at the university, you can do so by visiting the Counseling and Mental Health Support office located at SUB 3100, 8888 University Drive, Simon Fraser University, Burnaby, BC, V5A 1S6. The office is open Monday to Friday from 10 am to 4 pm. Additionally, you can also contact the office by phone at 778.782.4615 to schedule a counseling appointment.
+
+For more information on accessing counseling services at the university, you can visit the SFU Health and Counselling Services website at https://www.sfu.ca/students/health/resources/support-options.html.
+
+User>>exit
+
