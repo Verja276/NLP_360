@@ -11,6 +11,7 @@ def add_embedding_to_df(file_path, embedding_path):
     return df
 
 #doc_df = add_embedding_to_df('StructuredQA.csv', 'Embeddings.csv')
+#doc_df = add_embedding_to_df('StructuredQA.csv', 'TFIDFVectors.csv')
 #print(doc_df)
 #[1745 rows x 5 columns]
 #print(type(doc_df.iloc[0]['QuestionEmbedding'][0]))
