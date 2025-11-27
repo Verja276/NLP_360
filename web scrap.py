@@ -13,7 +13,7 @@ def extract_text_from_webpage(url, txt_file_name):
     text_data = [p.get_text() for p in paragraphs]
 
     # Define the output txt file
-    file_name = f"data\{txt_file_name}.txt"
+    file_name = f"data/{txt_file_name}.txt"
 
     # Open the file in write mode
     with open(file_name, 'w', encoding='utf-8') as file:
@@ -23,7 +23,7 @@ def extract_text_from_webpage(url, txt_file_name):
 
     print(f'Data successfully saved to {file_name}')
 
-csv_file = 'HCS website copy.csv' 
+csv_file = 'G28.csv' 
 df = pd.read_csv(csv_file)
 
 list_of_exceptions = ["0_3_9_13", "0_2_1_2", "0_2_6"]

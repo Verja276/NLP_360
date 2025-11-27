@@ -1,0 +1,152 @@
+F T I
+
+Before contacting EHS, please review the FAQs below. Many common questions about Safety Spectrum and it's modules are answered here. If you don’t find what you’re looking for, you can reach us at srs-sms-feedback@sfu.ca.
+
+I am a visiting scholar/researcher. Why can’t I log in to Safety Spectrum?
+
+Safety Spectrum can only be accessed by current SFU employees and students. Visiting scholars/researchers who are not on SFU payroll do not have access. To access training records, contact labsafe@sfu.ca. 
+
+Why am I receiving an email from “SFU Safety”?
+
+Emails from SFU Safety are automated notifications from Safety Spectrum:
+
+Training notifications:
+
+Reminders are sent when a certification is nearing expiry—typically 90 days before, shortly before, and after expiry.
+
+Not all certifications expire; if a certification doesn’t have an expiry date, you won’t get reminders.
+
+Action items / Corrective actions (Inspections & Incidents):
+
+Action items come from inspections; corrective actions come from incident investigations.
+
+You’re receiving the email because you’ve been assigned responsibility to complete one. The email is a summary. Click the link to log in to Safety Spectrum for full details (who assigned it, notes/attachments) and to accept or decline the item.
+
+Contractor Module (Project managers):
+
+Project managers may receive emails about contractor safety requirements and project updates.
+
+I am a supervisor. Why can’t I see the incident reports, training records, or inspections of my direct reports?
+
+Safety Spectrum pulls employee and reporting structure data from SFU’s MyInfo system. If your reporting relationships in MyInfo are incomplete or incorrect, please advise EHS. Please note that reporting relationships for TAs, Graduate Students and some RAs are not reflected in the system.   
+
+How do I assign a certification to myself or my direct reports? 
+
+To assign a certification to yourself:
+
+Log in to Safety Spectrum.
+
+On your Start Page Dashboard, go to the Your Training Stats panel.
+
+Scroll down past the list of Required Certifications — click the red Add Certification button. It can be easy to miss if you have many required certifications.
+
+A pop-up window will open. Select a certification from the dropdown list in the pop-up window and click Add Certification to Person.
+
+A second pop-up will open with details of the certification (see screenshot below). Here you can:
+
+Indicate if the certification should be required for you.
+
+Register for a course session if one is available. For Canvas courses, use the blue link “Click Here To Visit The Provider's Course Webpage to Register This Person For This Course” to enrol. 
+
+To assign a certification to direct reports:
+
+Managers follow the same process as assigning a certification to yourself, but with one extra step:
+
+Log in to Safety Spectrum.
+
+On your Start Page Dashboard, go to the Your Training Stats panel. Click the red Manage Your Training button.
+
+A pop-up will open showing your team’s training status matrix.
+
+Click on the employee’s name to open a second pop-up.
+
+In this window, click the red Add Certification for Person button.
+
+From here, follow the same steps as when assigning a certification to yourself: select the certification, indicate if it’s required, and register for a course if applicable.
+
+Why do I see training records for employees that have left the university?
+
+User profiles remain active in Safety Spectrum for up to 30 days after employment ends. This allows former employees to access and download their training certificates, for example, if they are applying for another role at SFU. During this time, they will also continue to appear in their department’s training matrix. After 30 days, their account is disabled.
+
+Why hasn’t my training completion shown up in the system?
+
+Canvas course training records usually sync with Safety Spectrum within 24 hrs. Here are some troubleshooting steps you can take:
+
+Still missing? Contact srs-sms-feedback@sfu.ca
+
+For in-person training, records may not have been inputted yet. Reach out to the instructor.
+
+Why is Office Ergonomics a required certification for me?
+
+Certain certifications like SFU Safety Orientation and Respectful Work and Learning Environments are assigned to all employees. Additional certifications are assigned based on your job role, work activities, and regulatory requirements. Supervisors and EHS determine which training is necessary to meet compliance obligations.
+
+Most SFU employees are assigned the Office Ergonomics certification because computer-based work carries a risk of musculoskeletal injury and this training helps meet WorkSafeBC requirements.
+
+Contact srs-sms-feedback@sfu.ca with questions about specific certifications and you will be connected to the appropriate EHS team member.
+
+I took SFU Safety Orientation when I was hired over 10 years ago. Why is that not reflected in My Training Stats?
+
+The SFU Safety Orientation was significantly updated in 2021 to include the SFU Communicable Disease Plan and other changes. All employees were required to retake the training after this update, so completions prior to 2021 are not shown in your current training stats.
+
+How do I print a training certificate and/or training summary report? What is the difference between the two?
+
+An individual training certificate can only be generated for SFU Canvas or in-person safety training courses. It confirms successful completion of a single course (e.g., SFU Safety Orientation) and can be printed or shared as proof of that specific certification.
+
+A training summary report is your personal training record in Safety Spectrum. It only shows courses that are tracked in Safety Spectrum, including SFU safety training and any external training entered into the system. The report lists the status of each certification (e.g., complete, required, or overdue) and indicates whether it is required based on your job type or training group membership.
+
+To print either:
+
+Certificates: Click on a completed certification to open a pop-up and generate its certificate.
+
+Training Summary Report:
+
+Why do my training certificates look different now?
+
+Previously, some Canvas courses issued certificates through an add-in called Accredible. These certificates had a different design and format.
+
+Now, all SFU safety training courses generate certificates directly from Safety Spectrum. This ensures training records are consistent and centrally stored. Accredible is being phased out as training records move fully into Safety Spectrum, so you may notice design differences between older Accredible certificates and new Safety Spectrum certificates.
+
+Is there training available to help me conduct the actual safety inspection?
+
+Yes. Safety committee members receive inspection training both on Canvas and in person. Anyone participating in a laboratory inspection can complete the Laboratory Safety Inspection Training on Canvas. Resource guides for inspectors, including a user guide specifically for safety committee inspectors, are also available to support you before and during inspections.
+
+Can I complete one inspection checklist for multiple rooms?
+
+In Safety Spectrum, you can only select one asset per inspection checklist. However, EHS has created “zones” (groups of related spaces) so you can complete a checklist at the zone level rather than filling out one for each individual room. This works well for lab and safety committee inspections where multiple rooms are inspected.
+
+How do I add/change a question on the inspection checklist?
+
+Only EHS can make changes to inspection checklists as Safety Spectrum Administrators. To request an edit, contact srs-sms-feedback@sfu.ca. Please note that any changes to safety committee inspection checklists must first be agreed upon by the committee before they can be made.
+
+Why can’t I select an asset to inspect?
+
+If the asset doesn’t appear in the dropdown, it means you do not have access to it in Safety Spectrum. In most cases, this happens because you are not assigned as an inspector for that asset. To request inspector access, email srs-sms-feedback@sfu.ca.  
+
+Do I have to complete all fields on the incident report form?
+
+No. Only the fields marked with a red asterisk (*) are mandatory. All other fields are optional but can be filled in if you have the information available. You can also return to the incident report form later to add or update information if needed.
+
+Do I need to add my supervisor to the incident report?
+
+Yes, adding your supervisor to the report informs them of the incident that occurred. 
+
+Why does the incident remain marked as "Incomplete" on my dashboard even though all required fields have been filled out?
+
+An incident may still appear as “Incomplete” if:
+
+The corrective actions linked to the incident have not been completed, or
+
+The incident investigation has not yet been finished.
+
+Signature fields are blank. 
+
+Incident investigations are usually completed within 30 days, but they could take longer if the people involved are difficult to reach. Once both the corrective actions and the investigation are closed, the incident will move out of “Incomplete” status.
+
+I am a contractor and am having difficulties logging in.
+
+Contractors access the system through https://contractorsafety.sfu.ca. If you continue to have issues logging in or need assistance, contact safework@sfu.ca. 
+
+8888 University DriveBurnaby, B.C.Canada V5A 1S6 
+
+Simon Fraser University respectfully acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo and Tsawwassen peoples on whose unceded traditional territories our three campuses reside.
+

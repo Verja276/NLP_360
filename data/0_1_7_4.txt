@@ -1,0 +1,47 @@
+F T I
+
+The Academic Progress Report (APR) is a powerful report and planning tool that informs advisors and undergraduate students of how far along a student is in obtaining their degree. 
+
+The APR can also be used to evaluate how courses might transfer into a different program. To explore this option, the student would need to make an appointment with an advisor who would use the What-If report type to simulate a hypothetical summary. Students don't have access to run a What-If report themselves. 
+
+Within the APR, with the My Planner feature, students can also plan courses in advance and use their planner to enrol in courses. While the advisor does not have access to put courses in a student's My Planner, the advisor can view the student's planned courses and work alongside the student to plan their courses.
+
+The Academic Progress Report will not work for:
+
+Navigation:
+
+Academic Advisement > Student Advisement > Request Advisement Report
+
+Click Add New Value; under ID, input student number; under report type select ACDPR
+
+The Report Date should default to today’s date and the As of Date should default to 3000/01/01.
+
+After clicking Process Request,  click yes. The academic progress report will then load on screen.
+
+Senate and Academic Services can schedule an APR training workshop upon request. Staff can contact Rosa Balletta rballett@sfu.ca to register. Senate and Academic Services will provide you with access to the training manual after the training session.
+
+Senate and Academic Services codes:
+
+Senate and Academic Services doesn’t code course changes directly into the APR:
+
+Course changes are made in the Course Catalog and automatically carry over to the APR reports. 
+
+Senate and Academic Services codes Senate changes per the following timeline. Please see guidlines above regarding what we code and don't code into the APR. We contact the advisor listed on this page once coding has been completed. 
+
+For requests related to problems or errors that affect all students in that program or plan, please submit a Service Request. 
+
+For requests that apply to individual student records, please submit the Student Exception form.
+
+ 
+
+Senate and Academic Services is committed to making the APR easy to understand and therefore always welcomes feedback and questions.
+
+Please don’t hesitate to contact us at aprusers@sfu.ca.
+
+8888 University DriveBurnaby, B.C.Canada V5A 1S6 
+
+Simon Fraser University respectfully acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo and Tsawwassen peoples on whose unceded traditional territories our three campuses reside.
+
+Terms & ConditionsPrivacy policy© Simon Fraser University
+
+
