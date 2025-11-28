@@ -1,0 +1,12 @@
+1. What phone number is listed?
+2. Which social media platforms are mentioned?
+3. Is Live Chat offered as a contact option?
+4. Is YouTube included among the social media links?
+5. Is Facebook listed among the social media options?
+6. Is Twitter listed among the social media options?
+7. What headings related to a job posting appear (e.g., Position, Campus, Type, Application Period)?
+8. Which contact methods are displayed on the page?
+9. What label appears before the phone number?
+10. What section heading indicates the time frame for applying?
+11. Which heading denotes the location of the position?
+12. Which heading indicates the nature or category of the position?

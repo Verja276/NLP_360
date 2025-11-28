@@ -1,0 +1,19 @@
+What phrase appears at the very top of the extracted text?
+Which single letters of the alphabet are listed in the extract?
+What does Simon Fraser University respectfully acknowledge?
+Which Indigenous nations are named in the territorial acknowledgement?
+How many campuses does Simon Fraser University state reside on these territories?
+Which name is given in parentheses after xʷməθkʷəy̓əm?
+Which name is given in parentheses after Sḵwx̱wú7mesh Úxwumixw?
+Which name is given in parentheses after səlilwətaɬ?
+Which name is given in parentheses after q̓íc̓əy̓?
+Which name is given in parentheses after kʷikʷəƛ̓əm?
+Which peoples are listed without parenthetical English names?
+Is the word "unceded" used in the acknowledgement?
+What policies or links are mentioned at the bottom of the extract?
+Who is listed as the copyright holder at the bottom of the text?
+Are there any non-Latin characters or diacritics present in the Indigenous names?
+Does the extract include the phrase "GIVE TO SFU" or a similar donation prompt?
+Is "Terms & Conditions" explicitly mentioned in the text?
+Is "Privacy policy" explicitly mentioned in the text?
+What punctuation or symbols separate the footer items (Terms & Conditions, Privacy policy, © Simon Fraser University)?

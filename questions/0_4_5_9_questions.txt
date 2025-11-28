@@ -1,0 +1,14 @@
+What is the phone number listed on the page?
+Does the page offer a live chat option?
+Which social media platforms are shown?
+Is there a keyword search available?
+What fields are provided for job listings (e.g., Position, Campus, Type)?
+Where is the application period information located on the page?
+How can I contact the organization by phone?
+Are Facebook, Twitter, and YouTube listed as contact options?
+Is there a section labeled "Key Word Search"?
+Does the page include a "Campus" filter?
+Is "Type" listed as a searchable field?
+Does the page show a "Position" heading?
+Is "Application Period" shown as a heading on the page?
+What contact methods are visible besides phone (e.g., Live Chat)?

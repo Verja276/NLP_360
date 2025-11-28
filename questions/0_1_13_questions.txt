@@ -1,0 +1,15 @@
+- What must students have as a valid identifier: a SIN or an ITN?
+- What tax form provides the amount of funding a student received in a given year?
+- What tax receipt reports tuition paid for credit courses for the previous calendar year?
+- If you are filing taxes in the US, which form should you use?
+- What is the full street address of Simon Fraser University?
+- In which city and province is Simon Fraser University located?
+- What is the postal code for Simon Fraser University's Burnaby address?
+- How many campuses does Simon Fraser University say it has?
+- Which Indigenous peoples does Simon Fraser University acknowledge as the traditional territories where its campuses reside?
+- Which policies are listed at the bottom of the page?
+- Who holds the copyright for the website content?
+- What abbreviated letters appear at the top of the extracted text (F T I)?
+- Does the page mention whether students need a Social Insurance Number (SIN) or an Individual Tax Number (ITN)?
+- Which tax document should be used to report tuition for credit courses from the previous calendar year?
+- Does the text include an acknowledgment of unceded traditional territories?

@@ -1,0 +1,18 @@
+What phone number is listed for contact?
+What email address is provided for contact?
+Which social media platforms are mentioned?
+How can I book an appointment?
+What call-to-action prompts appear on the page?
+How many times is the phone number 778.782.4143 shown in the extracted text?
+How many times is the email success@sfu.ca shown in the extracted text?
+What is the domain of the contact email address?
+What is the area code of the listed phone number?
+Is there an invitation to "JOIN NOW" on the page?
+Is there an option labeled "Book an appointment" on the page?
+Are there any contact methods listed besides phone and email?
+Does the extracted text include a physical mailing address?
+What is the username portion of the contact email address?
+Are Facebook, Twitter, and Instagram listed as contact options?
+Is the phone number formatted with periods between number groups?
+Is the phone number identical in each occurrence?
+Is the email address identical in each occurrence?

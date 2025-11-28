@@ -1,0 +1,15 @@
+What word is displayed on the page?
+What message indicates the page is still retrieving content?
+Does the extracted text contain the phrase "Loading..."?
+Is there an instruction asking to "only write the questions"?
+How many lines of text are visible in the extraction?
+Are there blank lines shown in the extracted text?
+Is any actual content shown besides the loading indicator?
+What instruction is given to the user or assistant?
+Does the extracted text show that the page content has finished loading?
+What is the first visible word in the extracted text?
+Are there any punctuation marks in the extracted text?
+Does the extracted text include capitalization?
+Does the text include an ellipsis after "Loading"?
+Is the instruction "only write the questions" presented on its own line?
+What text appears immediately after the loading indicator?

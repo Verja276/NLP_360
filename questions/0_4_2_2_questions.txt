@@ -1,0 +1,14 @@
+1. Can I log in now to access protected services later?
+2. What does the message "CAPSLOCK key is turned on!" indicate?
+3. What will SFU never request users to provide via email or by going to any web site?
+4. What should SFU users do when they receive messages requesting Computing ID and/or password information?
+5. Where can I find more information on phishing?
+6. How should I verify the security of this page before entering my password?
+7. What browser icon indicates a secure (closed lock) connection?
+8. What URL should this page start with to be the legitimate SFU login page?
+9. What should I do if I'm not sure whether a page is legitimate?
+10. What is the physical address of IT Services?
+11. In which building is IT Services located?
+12. What is the full mailing address, including postal code, for IT Services?
+13. Which Indigenous peoples' unceded traditional territories does Simon Fraser University acknowledge?
+14. What CAS domain is specified for SFU login pages?

@@ -1,0 +1,18 @@
+What categories are listed at the top of the page (e.g., Clubs, Unions, Vendors)?  
+How are the currently registered clubs ordered on the page?  
+How can I view additional information about a club?  
+How can I join a club listed on the page?  
+What are the Student Centre hours?  
+What are the SUB (Student Union Building) hours?  
+Is the SUB open on weekends?  
+On which holidays is the SUB closed?  
+What is the full street address of the Student Union Building?  
+Which university is associated with the Student Union Building?  
+In which city and province is the Student Union Building located?  
+What is the postal code for the Student Union Building?  
+Does the page provide an option to log out?  
+Is there a link to return to sfss.ca?  
+Does the page indicate that it lists only currently registered clubs?  
+Where should I click to view a club’s additional information or to join?  
+What hours is the Student Centre open on weekdays?  
+Are any hours or closures noted for SFSS holidays?

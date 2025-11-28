@@ -1,0 +1,33 @@
+What is the current temperature on campus?
+What are the current sky conditions on campus?
+Is there fog in certain areas of the campus?
+Are roadways, parking lots, and walkways wet right now?
+How are driving conditions on campus described?
+Is visibility limited due to fog?
+How often do the traffic camera images update?
+For how long do the traffic camera screenshots cover time?
+What does the camera view of the Academic Quadrangle (AQ) show?
+What is at the centre of the AQ courtyard camera view?
+From which camera can you see the North Shore mountains?
+Which camera view overlooks the drive up to the University?
+What building is in the centre of the drive-up camera image?
+Which field is visible in the drive-up camera view?
+Which rooftop camera overlooks the Trottier Observatory and Science Courtyard?
+What residential towers are visible in the Trottier Observatory camera view?
+Which intersection is shown by one of the cameras?
+How often does the camera position change at the Gaglardi Way/University Drive/Burnaby Mountain Parkway intersection?
+What does the north-facing Tower Road camera show?
+Why have some areas of the Tower Road camera feed been intentionally blurred?
+What does the south-facing Tower Road camera show?
+From which floor of the Library is a camera view provided?
+Which direction does the Library camera presently face?
+What roadway and campus complex are visible from the Library camera view?
+What future site is visible from the BLU building roof camera?
+What future site is visible from the BRH building roof camera?
+Where can I find campus safety resources for severe weather?
+Which external weather services are referenced on the page?
+What wildlife hazard is mentioned for drivers on Burnaby Mountain?
+Where can I learn more about wildlife safety?
+Which radio stations broadcast the latest traffic updates?
+What is the mailing address listed for Simon Fraser University?
+Which Indigenous peoples and traditional territories does Simon Fraser University acknowledge?
