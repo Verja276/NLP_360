@@ -1,0 +1,195 @@
+1.
+Safety Spectrum can only be accessed by current SFU employees and students. Visiting scholars/researchers who are not on SFU payroll do not have access. To access training records, contact labsafe@sfu.ca.
+
+2.
+Current SFU employees and students.
+
+Visiting scholars/researchers not on SFU payroll cannot access Safety Spectrum.
+
+Contractors use https://contractorsafety.sfu.ca.
+
+3.
+Contact labsafe@sfu.ca.
+
+4.
+Emails from SFU Safety are automated notifications from Safety Spectrum:
+
+- Training notifications: reminders when a certification is nearing expiry (typically 90 days before, shortly before, and after expiry). Not all certifications expire, so you won’t get reminders for those without an expiry date.
+
+- Action items / Corrective actions (Inspections & Incidents): you receive these because you’ve been assigned responsibility to complete an action or corrective action; the email is a summary—click the link to log in to Safety Spectrum for full details and to accept or decline.
+
+- Contractor Module (Project managers): project managers may receive emails about contractor safety requirements and project updates.
+
+5.
+- Training notifications (certification expiry reminders)  
+- Action items / corrective actions from inspections and incident investigations  
+- Contractor Module emails for project managers about contractor safety requirements and project updates
+
+6.
+When a certification is nearing expiry—typically 90 days before, shortly before, and after expiry.
+
+7.
+Reminders are only sent for certifications that have an expiry date and are nearing expiry (typically 90 days before, shortly before, and after expiry). If a certification doesn’t have an expiry date, you will not receive reminders.
+
+8.
+Action items — Tasks generated from inspections that are assigned to individuals to follow up on identified issues; tracked in Safety Spectrum.
+
+Corrective actions — Tasks arising from incident investigations intended to fix root causes and prevent recurrence; assigned and tracked in Safety Spectrum.
+
+9.
+Action items come from inspections; corrective actions come from incident investigations. You’re receiving the email because you’ve been assigned responsibility to complete one. The email is a summary—click the link to log in to Safety Spectrum for full details (who assigned it, notes/attachments) and to accept or decline the item.
+
+10.
+Click the link in the SFU Safety email to log in to Safety Spectrum — the email is a summary; once logged in open the action item/corrective action to view full details (who assigned it, notes/attachments) and to accept or decline it. If you don’t have the email, log in to Safety Spectrum and open the item from your dashboard/tasks to view the same details.
+
+11.
+As a project manager, you receive Contractor Module emails notifying you about contractor safety requirements and project updates.
+
+12.
+Safety Spectrum pulls employee and reporting-structure data from SFU’s MyInfo. If your reporting relationships in MyInfo are incomplete or incorrect, advise EHS (srs-sms-feedback@sfu.ca). Note that reporting relationships for TAs, graduate students and some RAs are not reflected in the system.
+
+13.
+Safety Spectrum pulls employee and reporting-structure data from SFU’s MyInfo system.
+
+14.
+Contact EHS to correct your MyInfo reporting relationships — email srs-sms-feedback@sfu.ca.
+
+15.
+Safety Spectrum imports reporting relationships from SFU’s MyInfo system, and TAs, graduate students and some RAs are not recorded (or are managed differently) in MyInfo, so their reporting relationships don’t appear. If you believe a reporting relationship is incorrect or missing, please advise EHS.
+
+16.
+1. Log in to Safety Spectrum.  
+2. On your Start Page Dashboard, go to the Your Training Stats panel.  
+3. Scroll down past the list of Required Certifications and click the red Add Certification button.  
+4. In the pop-up, select a certification from the dropdown and click Add Certification to Person.  
+5. In the second pop-up, indicate if the certification should be required for you and register for a course session if available (for Canvas courses, use the blue provider link to enroll).
+
+17.
+On your Start Page Dashboard in the Your Training Stats panel — scroll down past the list of Required Certifications to find the red "Add Certification" button.
+
+18.
+1. Log in to Safety Spectrum.  
+2. On your Start Page Dashboard, open the Your Training Stats panel.  
+3. Click the red Add Certification button (managers: click Manage Your Training → employee name → Add Certification for Person).  
+4. In the pop-up, select the certification and click Add Certification to Person.  
+5. In the certification details pop-up, use the blue link “Click Here To Visit The Provider's Course Webpage to Register This Person For This Course” to enroll in the Canvas course.
+
+19.
+Log in to Safety Spectrum.
+
+On your Start Page Dashboard, go to the Your Training Stats panel. Click the red Manage Your Training button.
+
+A pop-up will open showing your team’s training status matrix.
+
+Click on the employee’s name to open a second pop-up.
+
+In this window, click the red Add Certification for Person button.
+
+Select the certification, indicate if it’s required, and register for a course if applicable.
+
+20.
+Log in to Safety Spectrum.
+On your Start Page Dashboard, go to the Your Training Stats panel.
+Click the red Manage Your Training button.
+A pop-up will open showing your team’s training status matrix.
+
+21.
+User profiles remain active in Safety Spectrum for up to 30 days after employment ends. This allows former employees to access and download their training certificates, for example, if they are applying for another role at SFU. During this time, they will also continue to appear in their department’s training matrix. After 30 days, their account is disabled.
+
+22.
+User profiles remain active for up to 30 days after employment ends.
+
+23.
+Canvas course training records usually sync with Safety Spectrum within 24 hours.
+
+If it’s still missing, contact srs-sms-feedback@sfu.ca.
+
+24.
+Within 24 hours.
+
+25.
+Reach out to the instructor — in-person training records may not have been input yet. If it’s still missing, contact srs-sms-feedback@sfu.ca.
+
+26.
+Certain certifications like SFU Safety Orientation and Respectful Work and Learning Environments are assigned to all employees. Additional certifications are assigned based on your job role, work activities, and regulatory requirements. Supervisors and EHS determine which training is necessary to meet compliance obligations.
+
+Most SFU employees are assigned the Office Ergonomics certification because computer-based work carries a risk of musculoskeletal injury and this training helps meet WorkSafeBC requirements.
+
+Contact srs-sms-feedback@sfu.ca with questions about specific certifications and you will be connected to the appropriate EHS team member.
+
+27.
+Supervisors and EHS (based on your job role, work activities, and regulatory requirements).
+
+28.
+The SFU Safety Orientation was significantly updated in 2021 (including the SFU Communicable Disease Plan). All employees were required to retake it after that update, so completions prior to 2021 are not shown in your current training stats.
+
+29.
+Click on a completed certification to open a pop-up and generate (then print) its certificate.
+
+30.
+Training certificate: Confirms successful completion of a single SFU Canvas or in‑person course and can be printed or shared as proof of that specific certification.
+
+Training summary report: Your personal training record in Safety Spectrum showing all tracked courses, their status (complete, required, overdue), and whether each is required based on your job type or training group.
+
+31.
+- Log in to Safety Spectrum.  
+- On your Start Page Dashboard, go to the Your Training Stats panel.  
+- Open the Training Summary Report (your personal training record) and use the print/download option to generate it.
+
+32.
+Previously, some Canvas courses issued certificates via an add‑in called Accredible, which had a different design and format. Now all SFU safety training certificates are generated directly from Safety Spectrum (Accredible is being phased out), so records and certificate designs are different.
+
+33.
+Yes. Safety committee members receive inspection training both on Canvas and in person. Anyone participating in a laboratory inspection can complete the Laboratory Safety Inspection Training on Canvas. Resource guides for inspectors, including a user guide specifically for safety committee inspectors, are also available to support you before and during inspections.
+
+34.
+In Safety Spectrum you can only select one asset per inspection checklist. However, EHS has created “zones” (groups of related spaces) so you can complete a checklist at the zone level rather than filling out one for each individual room — this works well for lab and safety committee inspections where multiple rooms are inspected.
+
+35.
+Zones are groups of related spaces created by EHS. Because Safety Spectrum only allows one asset per inspection checklist, you can select a zone as the asset and complete a single checklist at the zone level instead of filling out one for each room. This is useful for lab and safety committee inspections covering multiple rooms.
+
+36.
+Only EHS (Safety Spectrum Administrators) can make changes. To request an edit, email srs-sms-feedback@sfu.ca. Note: changes to safety committee inspection checklists must first be agreed upon by the committee.
+
+37.
+Only EHS (as Safety Spectrum Administrators)
+
+38.
+If the asset doesn’t appear in the dropdown, it means you do not have access to it in Safety Spectrum. In most cases, this happens because you are not assigned as an inspector for that asset. To request inspector access, email srs-sms-feedback@sfu.ca.
+
+39.
+Email srs-sms-feedback@sfu.ca to request inspector access for the asset.
+
+40.
+No. Only fields marked with a red asterisk (*) are mandatory; all other fields are optional and can be added or updated later.
+
+41.
+Yes — adding your supervisor to the report informs them of the incident that occurred.
+
+42.
+- The corrective actions linked to the incident have not been completed.  
+- The incident investigation has not yet been finished.  
+- Signature fields are blank.  
+- Once both the corrective actions and the investigation are closed, the incident will move out of “Incomplete” status.
+
+43.
+Yes — blank signature fields can cause an incident to remain marked as “Incomplete.”
+
+44.
+Usually within 30 days, though it may take longer if people involved are difficult to reach.
+
+45.
+Contractors access the system through https://contractorsafety.sfu.ca.
+
+If you continue to have issues, contact safework@sfu.ca.
+
+46.
+Access the system at https://contractorsafety.sfu.ca. If you continue to have issues, contact safework@sfu.ca.
+
+47.
+srs-sms-feedback@sfu.ca
+safework@sfu.ca
+
+48.
+srs-sms-feedback@sfu.ca
+

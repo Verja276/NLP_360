@@ -1,0 +1,65 @@
+1.
+Yes
+
+2.
+That your browser shows a closed lock icon and that the URL starts with https://cas.sfu.ca
+
+3.
+https://cas.sfu.ca
+
+4.
+closed lock icon
+
+5.
+Do not enter your password.
+
+6.
+No.
+
+7.
+Ignore all messages requesting Computing ID and/or password information.
+
+8.
+More information on phishing.
+
+9.
+Protect your Password
+
+10.
+Strand Hall 1001
+
+11.
+Strand Hall 1001
+
+12.
+8888 University Drive
+
+13.
+Burnaby, B.C.
+
+14.
+V5A 1S6
+
+15.
+Simon Fraser University
+
+16.
+xʷməθkʷəy̓əm (Musqueam)
+Sḵwx̱wú7mesh Úxwumixw (Squamish)
+səl̓ilw̓ətaʔɬ (Tsleil-Waututh)
+q̓íc̓əy̓ (Katzie)
+kʷikʷəƛ̓əm (Kwikwetlem)
+Qayqayt
+Kwantlen
+Semiahmoo
+Tsawwassen
+
+17.
+Musqueam, Squamish, Tsleil-Waututh
+
+18.
+https://cas.sfu.ca
+
+19.
+Ignore the message and do not provide or confirm your Computing ID or password.
+

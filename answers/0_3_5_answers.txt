@@ -1,0 +1,99 @@
+1.
+To help you anticipate how many units or what GPA you need to achieve a desired CGPA.
+
+2.
+C/GPA calculator
+GPA for target CGPA
+Units for target CGPA
+
+3.
+Calculates your cumulative (and term) GPA from the courses you enter by using their grades and units.
+
+4.
+Calculates the GPA you must earn in upcoming course(s)/term (based on your current CGPA, total units, and planned units) to reach a desired cumulative GPA.
+
+5.
+Calculates how many additional units you must complete (based on your current CGPA/units and an assumed future GPA) to reach a desired cumulative GPA.
+
+6.
+Click the "+ Add Course" button to add a course.
+
+Click the "‑ Remove Course" button to remove a course.
+
+7.
+Calculate C/GPA
+Reset
+Calculate required GPA
+Calculate required units
+
+8.
+1. Select "C/GPA calculator" mode.  
+2. Click "+ Add Course" for each course and enter the course units and letter grade.  
+3. Make sure total units attempted come from your transcript (download from go.sfu.ca); do not include units in progress.  
+4. Click "Calculate C/GPA."  
+5. Note: repeats/duplicate courses are not handled—see an Academic Advisor; calculator is for SFU grades/units only.
+
+9.
+Let C = current CGPA, Uc = units completed, T = target CGPA, Un = additional units you will take, Greq = required GPA in those units.
+
+Greq = (T*(Uc + Un) - C*Uc) / Un
+
+(If instead you know the GPA you can achieve, Gexp, and want required units Un:)
+
+Un = (T - C) * Uc / (Gexp - T)
+
+10.
+Let U = current units, C = current CGPA, T = target CGPA, g = expected GPA in future units, n = additional units required.
+
+n = U*(T - C)/(g - T)
+
+If T ≤ C then n = 0. If g ≤ T then impossible.
+
+Using maximum possible grade M: n = U*(T - C)/(M - T)
+
+11.
+No. The GPA Calculator will not work if you have repeated/duplicate courses on your transcript; contact an Academic Advisor for help.
+
+12.
+An Academic Advisor
+www.sfu.ca/students/academicadvising/contact_us.html
+
+13.
+Numerical average for all terms completed.
+
+14.
+Term GPA (term grade point average): numerical average for one term completed
+
+15.
+Log in at go.sfu.ca and download your transcript. Total units attempted does not include units in progress; it includes all units completed, including those given an F or N.
+
+16.
+No — it does not include units in progress.
+
+17.
+Yes — it includes units for courses graded F or N.
+
+18.
+No. GPA Calculators are intended for SFU grades and units only. Transfer students may need to include non‑SFU transfer courses and should contact an Academic Advisor for assistance.
+
+19.
+Some internal transfer GPAs are based on a set of specific courses and may require including non‑SFU transfer courses in the GPA calculation.
+
+20.
+www.sfu.ca/students/academicadvising/contact_us.html
+
+21.
+No — repeat/duplicate courses are NOT automatically factored into the GPA Calculators.
+
+22.
+778.782.6930
+
+23.
+Yes
+
+24.
+8888 University Drive, Burnaby, B.C., Canada V5A 1S6
+
+25.
+See hours of operation
+

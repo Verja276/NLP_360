@@ -1,0 +1,50 @@
+1.
+Yes — you may log in now to access protected services later.
+
+2.
+That the Caps Lock key is enabled, so characters you type will be entered in uppercase.
+
+3.
+Computing ID or password
+
+4.
+Ignore all messages requesting Computing ID and/or password information, no matter how authentic they may appear.
+
+5.
+SFU IT Services website — see the "More information on phishing" page.
+
+6.
+Check that your browser shows a closed lock icon.
+Ensure the URL starts with https://cas.sfu.ca — if you're not sure, do not enter your password.
+
+7.
+Closed lock icon
+
+8.
+https://cas.sfu.ca
+
+9.
+Always check that your browser shows a closed lock icon and that the URL starts with https://cas.sfu.ca. If you're not sure, do not enter your password and ignore any requests to provide your Computing ID or password via email or websites.
+
+10.
+Strand Hall 1001
+8888 University Drive
+Burnaby, B.C.
+Canada. V5A 1S6
+
+11.
+Strand Hall
+
+12.
+IT Services
+Strand Hall 1001
+8888 University Drive
+Burnaby, B.C.
+Canada. V5A 1S6
+
+13.
+xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səl̓ilw̓ətaʔɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo, Tsawwassen
+
+14.
+cas.sfu.ca
+

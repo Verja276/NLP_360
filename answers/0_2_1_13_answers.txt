@@ -1,0 +1,109 @@
+1.
+A valid Social Insurance Number (SIN) or an Individual Tax Number (ITN)
+
+2.
+T4A
+T2202
+SIN / ITN
+
+3.
+Social Insurance Number (SIN)
+Individual Tax Number (ITN)
+
+4.
+I
+F
+T
+T
+
+5.
+The amount of funding a student received in a given year.
+
+6.
+I F T
+
+7.
+Tuition paid for credit courses for the previous calendar year
+
+8.
+Financial & Tax Information (FTI)
+Social Insurance Number (SIN) or Individual Tax Number (ITN)
+T4A
+T2202
+T2202
+8888 University Drive, Burnaby, B.C., Canada V5A 1S6
+Simon Fraser University respectfully acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil‑Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo and Tsawwassen peoples
+
+9.
+Credit courses
+
+10.
+T T T T
+
+11.
+The previous calendar year.
+
+12.
+T4A
+T2202
+SIN/ITN
+
+13.
+T2202
+
+14.
+SIN or ITN
+T4A
+T2202
+T2202
+
+15.
+8888 University Drive
+
+16.
+Social Insurance Number (SIN) or Individual Tax Number (ITN)
+T4A
+T2202
+
+17.
+Burnaby, British Columbia
+
+18.
+Social Insurance Number (SIN) or Individual Tax Number (ITN)
+T4A
+T2202
+T2202
+
+19.
+V5A 1S6
+
+20.
+Financial & Tax Information
+Social Insurance Number (SIN) or Individual Tax Number (ITN)
+T4A
+T2202 (Tuition and Enrolment Certificate)
+T2202
+8888 University Drive, Burnaby, B.C., Canada V5A 1S6
+xʷməθkʷəy̓əm (Musqueam); Sḵwx̱wú7mesh Úxwumixw (Squamish); səlilwətaɬ (Tsleil‑Waututh); q̓íc̓əy̓ (Katzie); kʷikʷəƛ̓əm (Kwikwetlem); Qayqayt; Kwantlen; Semiahmoo; Tsawwassen
+Terms & Conditions; Privacy policy; © Simon Fraser University
+
+21.
+xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo, Tsawwassen
+
+22.
+Social Insurance Number (SIN) or Individual Tax Number (ITN)
+T4A
+T2202
+T2202
+8888 University Drive, Burnaby, B.C., Canada V5A 1S6
+
+23.
+Terms & Conditions
+Privacy policy
+
+24.
+T, T, T, F
+
+25.
+Yes — © Simon Fraser University
+

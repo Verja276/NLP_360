@@ -1,0 +1,84 @@
+1.
+T2202, the Tuition and Enrolment Certificate, is the tuition tax receipt issued to students who paid tuition for courses in the previous calendar year and shows the amount of tuition paid.
+
+2.
+Log in to goSFU to download or print your T2202.
+
+3.
+February 28, 2025
+
+4.
+Yes.
+
+5.
+Yes. Starting with the 2019 tax year, CRA requires a Social Insurance Number on the T2202; you must have a SIN and enter/update it in your goSFU student record (apply for a SIN via the Government of Canada if needed).
+
+6.
+Log in to goSFU and update your SIN in your Student Record. If you need a SIN, apply via the Government of Canada's "Apply for a SIN" website.
+
+7.
+Visit the Government of Canada's Apply for a SIN site.
+
+8.
+No. Deposits are not eligible expenses for T2202 purposes unless you have actually attended classes; if you paid an admission deposit and then declined your offer, you will not receive a T2202.
+
+9.
+No. Deposits are not eligible expenses for T2202 purposes unless you have actually attended classes. If you paid an admission deposit and then declined your offer of admission, you will not receive a T2202.
+
+10.
+SFU reports "0" months on the T2202; a student enrolled only in co‑op (and taking no classes) is considered neither full‑time nor part‑time.
+
+11.
+Yes — the CRA considers you full-time if you’re in a qualifying program, attended only part-time, and are eligible for the disability tax credit.
+
+12.
+Yes. As a Canadian resident you are required to file a tax return, and the T2202 is a tuition tax receipt that can be used as a deduction against income you earned in Canada.
+
+13.
+You may be able to use the T2202 against income you or your parents received in your home country. Contact an income tax professional or International Services for Students for more information.
+
+14.
+T4
+T4A
+
+15.
+student_accounts@sfu.ca
+
+16.
+Name, student number, current mailing address, year required (tax year), screenshot of any error message (if applicable)
+
+17.
+student_accounts@sfu.ca
+
+18.
+Yes — log in to goSFU to print your T2202.
+
+19.
+Yes.
+
+20.
+2019
+
+21.
+Seven years.
+
+22.
+30-0505256
+
+23.
+8888 University Drive
+Burnaby, B.C.
+Canada V5A 1S6
+
+24.
+Generally yes — T2202s are made available in late February of the following year, though exact dates may vary (e.g., Feb 28, 2025).
+
+25.
+https://www.canada.ca/en/revenue-agency.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-information-returns/t2202.html
+https://www.canada.ca/en/employment-social-development/services/sin.html
+https://go.sfu.ca
+
+26.
+Yes — please email a screenshot of the error message to student_accounts@sfu.ca.
+
