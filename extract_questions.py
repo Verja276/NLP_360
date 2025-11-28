@@ -11,7 +11,7 @@ def generate_questions(text):
     prompt = f"Generate a list of questions by a user that can be answered using this extracted text from a website.\n\n{text}"
     client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
     response = client.responses.create(
-        model="gpt-5", 
+        model="gpt-5-mini", 
         input = prompt + " only write the questions."
         )
         # n=1,
