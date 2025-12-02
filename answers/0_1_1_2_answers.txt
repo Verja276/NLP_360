@@ -1,0 +1,88 @@
+1.
+goSFU is SFU’s 24/7 information management system for course registration, viewing grades, tracking degree progress, ordering transcripts, and applying for graduation.  
+It is available to SFU students, faculty, and staff (with access also provided to applicants, alumni, and certain Fraser International College students for specific services).
+
+2.
+Yes
+
+3.
+Enroll in classes
+View grades
+Track academic progress
+Order transcripts
+Apply for graduation
+
+4.
+Yes
+
+5.
+- Sign in to goSFU at https://go.sfu.ca with your SFU student number and password.  
+- Go to the Student Centre and use the Enroll/Enroll in Classes function to register for courses.  
+- (If an undergraduate applicant) sign in at https://applicant.sfu.ca with your 9‑digit SFU student number and temporary password to access enrollment.
+
+6.
+Sign in to goSFU Student Centre at http://go.sfu.ca/ with your 9‑digit SFU student number and password (or https://applicant.sfu.ca with your temporary password if an applicant); use the Student Centre to view your grades.
+
+7.
+Access the Student Centre in goSFU (go.sfu.ca) to track degree progress.
+
+8.
+Sign in to the Student Centre (goSFU) at http://go.sfu.ca.  
+Use the Student Centre’s Order Transcripts option to place your request.
+
+9.
+Sign in to goSFU (go.sfu.ca) with your SFU student number and password, open the Student Centre, and select "Apply for Graduation."
+
+10.
+Sign in to goSFU as an undergraduate applicant at https://applicant.sfu.ca with your 9-digit SFU student number and temporary password.
+
+11.
+Yes
+
+12.
+With your 9-digit SFU student number and temporary password.
+https://applicant.sfu.ca
+
+13.
+Use the "Forgot your SFU student number or temporary password?" link on the goSFU sign-in page to recover your credentials.
+
+14.
+check class schedules
+view class rosters
+assign final grades to students
+submit or approve grade change requests
+
+15.
+Sign in to goSFU and open the Faculty Centre to check class schedules and view class rosters.  
+Access to the Faculty Centre is granted automatically once your teaching appointment is entered and remains while you have an active teaching appointment.
+
+16.
+Via the Faculty Centre in goSFU — instructors assign final grades and submit/approve grade change requests there; access is granted automatically once their teaching appointment is entered into the system.
+
+17.
+Once their teaching appointment has been entered into the system.
+
+18.
+For as long as the instructor has an active teaching appointment at SFU.
+
+19.
+Staff members — to perform administrative and advising duties.
+
+20.
+Request staff access to goSFU
+
+21.
+Yes — FIC students who are currently enrolled can access goSFU to pay residence fees.
+
+22.
+Pay residence fees
+
+23.
+Faculty — Yes (access provided automatically once a teaching appointment is entered).  
+Staff — Yes (access provided upon request for administrative/advising duties).  
+Students — No (student access is for enrolling, viewing grades, tracking progress, etc.).
+
+24.
+- On the goSFU website: http://go.sfu.ca — see the "How to access goSFU" headers  
+- Undergraduate applicants: https://applicant.sfu.ca (sign in with your 9‑digit SFU student number and temporary password)
+

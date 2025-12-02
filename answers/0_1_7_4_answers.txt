@@ -1,0 +1,85 @@
+1.
+The Academic Progress Report (APR) is a powerful report and planning tool that informs advisors and undergraduate students of how far along a student is in obtaining their degree.
+
+2.
+- Informs advisors and undergraduate students how far along a student is in obtaining their degree.  
+- Lets advisors run What‑If reports to simulate how courses might transfer into a different program.  
+- Enables students to plan courses in advance and enroll using My Planner; advisors can view the student's planned courses and collaborate on planning.
+
+3.
+Yes — an advisor can use the APR’s "What‑If" report to simulate transfers; students cannot run What‑If reports themselves.
+
+4.
+Make an appointment with an advisor.  
+The advisor will run a What‑If report to simulate a hypothetical program summary.  
+Students cannot run What‑If reports themselves.
+
+5.
+An advisor
+
+6.
+No
+
+7.
+A feature that lets students plan courses in advance and use their planner to enrol in courses; advisors can view a student’s planned courses and work with them but cannot add courses to the student’s My Planner.
+
+8.
+Yes.
+
+9.
+No — advisors cannot add courses to a student’s My Planner; they can only view the student’s planned courses and assist with planning.
+
+10.
+Yes
+
+11.
+Academic Advisement > Student Advisement > Request Advisement Report
+
+Click Add New Value; under ID enter the student number; under Report Type select ACDPR
+
+Verify Report Date is today and As of Date is 3000/01/01; click Process Request and then click Yes
+
+12.
+student number
+
+13.
+ACDPR
+
+14.
+today's date
+
+15.
+3000/01/01
+
+16.
+Click yes.
+
+17.
+Senate and Academic Services
+
+18.
+Contact Rosa Balletta at rballett@sfu.ca to register.
+
+19.
+Senate and Academic Services
+
+20.
+No
+
+21.
+Course Catalog
+
+22.
+They code Senate changes according to a specified timeline.  
+Course changes are not coded directly into the APR; they’re made in the Course Catalog and automatically carry over to APR reports.  
+They contact the advisor listed on the page once coding has been completed.
+
+23.
+Submit a Service Request.
+
+24.
+Student Exception form
+
+25.
+aprusers@sfu.ca
+

@@ -1,0 +1,15 @@
+What phone number is listed?
+Which social media platforms are shown?
+Is Live Chat available?
+What are the column headings related to job listings?
+Is an "Application Period" field present?
+Are "Position" and "Campus" fields included?
+Is "Type" listed as a field?
+What is the area code of the phone number provided?
+Does the extracted text include Facebook?
+Does the extracted text include Twitter?
+Does the extracted text include YouTube?
+What contact methods are provided in the text?
+Is a physical address shown in the extracted text?
+Are there any email addresses listed?
+Is the phone number formatted with periods between sections?

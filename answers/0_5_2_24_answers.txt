@@ -1,0 +1,54 @@
+1.
+A closed lock icon and that the URL starts with https://cas.sfu.ca
+
+2.
+https://cas.sfu.ca
+
+3.
+closed lock icon
+
+4.
+Do not enter your password.
+
+5.
+CAPSLOCK key
+
+6.
+Computing ID or password
+
+7.
+Ignore all messages requesting your Computing ID and/or password and do not enter your password.
+
+8.
+On the page's "More information on phishing" link.
+
+9.
+To access protected services later.
+
+10.
+8888 University Drive
+
+11.
+Strand Hall, Room 1001
+
+12.
+V5A 1S6
+
+13.
+Burnaby, B.C.
+
+14.
+Canada
+
+15.
+xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səl̓ilw̓ətaʔɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo, Tsawwassen
+
+16.
+8888 University Drive
+
+17.
+IT Services
+
+18.
+SFU will never request our users provide or confirm their Computing ID or password via email or by going to any web site. SFU users should ignore all messages requesting Computing ID and/or password information, no matter how authentic they may appear.
+

@@ -1,0 +1,80 @@
+F T I
+
+The T4A is an official document for tax purposes. It provides the amount of funds a student has received in scholarships, bursaries, awards and prizes from January to December in any given year.
+
+The tax form for the current tax year will be available for printing at goSFU in late February of the next year.  
+
+For more information on filing your income tax return, please go to https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p105/p105-students-income-tax.html.
+
+The T4A tax form, which reports the amount of funds a student has received in scholarships, bursaries and awards in 2024, will be available for download on February 28, 2025 at goSFU. 
+
+(Not accessible on mobile devices such as iPhones.)
+
+For the purpose of printing tax forms, SFU Computing IDs do not expire.
+
+You can reset your password by using your SFU computing ID (email) and SFU ID (9 digit student or employee number).
+
+If you still need help resetting your password, call the IT Service Desk at 778 782 8888.
+
+Possible fixes to try first:
+
+If you receive an error message, please email a screenshot of the message to student_accounts@sfu.ca
+
+If none of those solutions has worked, contact us at student_accounts@sfu.ca
+
+To whom at SFU may I direct T4A inquiries?
+
+Please call the helpline at 778.782.6930 or email student_accounts@sfu.ca. However, if you also were an employee of SFU during the year, contact payroll@sfu.ca as they issue the T4As for employees.
+
+
+Will SFU send me the T4A by email?
+
+No. Please log into your goSFU to print your T4A under the Finance section.
+
+
+Can SFU give the T4A information to another individual?
+
+No. Log into goSFU to print your T4A and distribute it accordingly.
+
+I am an international student. Why do I need a T4A?
+
+SFU is required to report this information to all students to enable them to complete their Canadian income tax returns.
+
+As a resident of Canada you are required to file a Canadian income tax return. Your employer issues a T4 for salaries or wages you have earned while in Canada. The university issues a T4A for scholarships, bursaries or other monetary awards you received during the calendar year.
+
+Where can I get more information:
+
+
+Students and Income Tax: www.canada.ca/en/revenue-agency/services/forms-publications/publications/p105.html
+
+International Students in Canada: www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/international-students-studying-canada.html
+
+For the same tax year, student received more than one T4A slip from SFU. Why is that?
+
+T4A slips are issued through goSFU and myINFO. If a student receives eligible scholarship payments via payroll, a T4A slip would be issued to the student and be retrievable via myINFO. Questions about a T4A slip issued by Payroll can be directed to Payroll Services at payroll@sfu.ca.
+
+Why did I receive T4A/T2202 slips issued by SFU?
+
+T4A slips are generated for scholarships, fellowships, or bursaries received during the tax year, from January to December in any given year. If the student did not receive such benefit during the year, the student will not be issued a T4A slip. For more information, refer to T4A.
+
+T2202 slips are the tuition tax receipts issued to all students who paid tuition for courses in the previous calendar year. It shows the amount of tuition that is paid. For more information, refer to T2202.
+
+Are graduate students considered part-time or full-time students?
+
+All graduate students are considered full-time students, regardless of the number of units taken.
+
+How can students request information to be updated on their issued T2202 or T4A slip, to reflect a name change or Social Insurance Number (SIN) update?
+
+For a name change, the application must first be verified and processed by the Records department in goSFU. For the change of name application form, refer to www.sfu.ca/students/forms.html.
+
+For a SIN update, students must first log in to goSFU and update their SIN under the ‘Personal Information’ section of their goSFU account. For information about SIN, refer to Social Insurance Number.
+
+Once the personal information is updated in goSFU, students can email student_accounts@sfu.ca and request for an amendment to their T2202 or T4A slip, by indicating their student ID, brief description of the change being requested, and the tax year of which the amendment should be applied to.
+
+8888 University DriveBurnaby, B.C.Canada V5A 1S6 
+
+Simon Fraser University respectfully acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo and Tsawwassen peoples on whose unceded traditional territories our three campuses reside.
+
+Terms & ConditionsPrivacy policy© Simon Fraser University
+
+

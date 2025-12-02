@@ -1,0 +1,19 @@
+Is the CAPSLOCK key turned on?
+What should you always check in your browser before entering your password?
+What URL should the page start with?
+What icon should be shown in the browser to indicate a secure connection?
+What should you do if you're not sure the page is legitimate?
+Will SFU ever request your Computing ID or password via email or by going to any website?
+What should SFU users do with messages requesting Computing ID and/or password information?
+Where can you find more information on phishing?
+What is the heading that advises users about password protection?
+Which IT service location is listed on the page?
+What building and room number is IT Services located in?
+What is the street address for IT Services?
+In which city and province is IT Services located?
+What is the postal code for IT Services?
+Which university is associated with the IT Services contact information?
+What peoples' traditional territories does Simon Fraser University respectfully acknowledge?
+Name three of the Indigenous peoples acknowledged by Simon Fraser University.
+Which web address is explicitly mentioned as the correct CAS URL?
+What is the primary action users should take when they receive a request for their Computing ID and/or password?

@@ -1,0 +1,319 @@
+name,title,relevance,link
+0,Student Services,0,https://www.sfu.ca/students.html
+0_1,Enrollment Services,1,https://www.sfu.ca/students/enrolment-services.html
+0_1_1,GoSfu Guide,1,https://www.sfu.ca/students/enrolment-services/gosfu.html
+0_1_1_1,GoSFU Link,1,https://sims.erp.sfu.ca/
+0_1_1_2,How to Access GoSFU,1,https://sfu.teamdynamix.com/TDClient/255/ITServices/KB/ArticleDet?ID=8077
+0_1_2,Enrollment,1,https://www.sfu.ca/students/enrolment-services/enrolment.html
+0_1_2_1,Before the Enrol,0,https://www.sfu.ca/students/enrolment-services/enrolment/before-you-enrol.html
+0_1_2_2,How to Enrol,0,https://www.sfu.ca/students/enrolment-services/enrolment/how-to-enrol.html
+0_1_2_3,Withdraw/drop/waitlist,0,https://www.sfu.ca/students/enrolment-services/enrolment/withdraw-drop-waitlist.html
+0_1_3,SFU ID Card,0,https://www.sfu.ca/students/enrolment-services/id-card.html
+0_1_3_1,Lost or Stolen Card,0,https://www.sfu.ca/students/enrolment-services/id-card/replacement-and-maintenance.html
+0_1_3_2,Getting your ID Card,0,https://www.sfu.ca/students/enrolment-services/id-card/getting-your-id-card.html
+0_1_3_3,Using your Card,0,https://www.sfu.ca/students/enrolment-services/id-card/using-your-card.html
+0_1_3_4,Change your Name,0,https://www.sfu.ca/students/enrolment-services/id-card/changing-your-name.html
+0_1_3_5,FAQ for ID,0,https://www.sfu.ca/students/enrolment-services/id-card/faq.html
+0_1_4,U-Pass BC,0,https://www.sfu.ca/students/enrolment-services/upass.html
+0_1_4_1,General Information for U-Pass,0,https://www.sfu.ca/students/enrolment-services/upass/general-info.html
+0_1_4_2,Eligibility,0,https://www.sfu.ca/students/enrolment-services/upass/eligibility.html
+0_1_4_3,Term Fees,2,https://www.sfu.ca/students/enrolment-services/upass/fees.html
+0_1_4_4,Load your Compass Card,0,https://www.sfu.ca/students/enrolment-services/upass/loading.html
+0_1_4_5,using your Compass Card,0,https://www.sfu.ca/students/enrolment-services/upass/using-your-compass-card.html
+0_1_4_6,FAQ for U-Pass,0,https://www.sfu.ca/students/enrolment-services/upass/faq.html
+0_1_5,Fees,2,https://www.sfu.ca/students/enrolment-services/fees.html
+0_1_5_1,Check your Balance,0,https://www.sfu.ca/students/enrolment-services/fees/check-your-balance.html
+0_1_5_2,How to Pay Fees,2,https://www.sfu.ca/students/enrolment-services/fees/how-to-pay.html
+0_1_5_3,Medical Insurance,3,https://www.sfu.ca/students/enrolment-services/fees/medical-insurance.html
+0_1_5_4,Refund Information,2,https://www.sfu.ca/students/enrolment-services/fees/refunds.html
+0_1_5_5,International Fees,2,https://www.sfu.ca/students/enrolment-services/fees/international-fees-policies.html
+0_1_6,Exams,0,https://www.sfu.ca/students/enrolment-services/exams.html
+0_1_6_1,Student Responsibilities,0,https://www.sfu.ca/students/enrolment-services/exams/student-responsibilities.html
+0_1_6_2,Scheduling Procedure,0,https://www.sfu.ca/students/enrolment-services/exams/scheduling-procedure.html
+0_1_6_3,Exam Hardship,0,https://www.sfu.ca/students/enrolment-services/exams/exam-hardship.html
+0_1_6_4,Study Spaces,0,https://www.sfu.ca/students/enrolment-services/exams/study-spaces.html
+0_1_7,Academic Progress Report,0,https://www.sfu.ca/students/enrolment-services/apr.html
+0_1_7_1,How to Access APR,0,https://www.sfu.ca/students/enrolment-services/apr/how-to-access.html
+0_1_7_2,Plan your Courses,0,https://www.sfu.ca/students/enrolment-services/apr/plan-your-courses.html
+0_1_7_3,FAQ for APR,0,https://www.sfu.ca/students/enrolment-services/apr/faq.html
+0_1_7_4,Advisors,0,https://www.sfu.ca/students/enrolment-services/apr/advisors.html
+0_1_8,Graduation,0,https://www.sfu.ca/students/enrolment-services/graduation.html
+0_1_9,Records,0,https://www.sfu.ca/students/enrolment-services/records.html
+0_1_9_1,Transcripts,0,https://www.sfu.ca/students/enrolment-services/records/transcripts.html
+0_1_9_2,Confirmation of Enrollment,1,https://www.sfu.ca/students/enrolment-services/records/confirmation-of-enrolment.html
+0_1_9_3,Credential Completion Letter,0,https://www.sfu.ca/students/enrolment-services/records/credential-completion-letter.html
+0_1_9_4,Degree Verification,0,https://www.sfu.ca/students/enrolment-services/records/degree-verification.html
+0_1_9_5,Parchment Replacement,0,https://www.sfu.ca/students/enrolment-services/records/parchment-replacement.html
+0_1_9_6,Criminal Record Check,0,https://www.sfu.ca/students/enrolment-services/records/criminal-record-check.html
+0_1_9_7,Lettor of Permission,0,https://www.sfu.ca/students/enrolment-services/records/letter-of-permission.html
+0_1_10,Appeals,0,https://www.sfu.ca/students/enrolment-services/appeals.html
+0_1_10_1,Admission Appeals,1,https://www.sfu.ca/students/enrolment-services/appeals/admission-appeals.html
+0_1_10_2,Student Disciplinary Appeals,0,https://www.sfu.ca/students/enrolment-services/appeals/student-disciplinary-appeals.html
+0_1_10_3,General Appeals,0,https://www.sfu.ca/students/enrolment-services/appeals/general-appeals.html
+0_1_10_4,Withdraw - Extenuating Circumstances,0,https://www.sfu.ca/students/enrolment-services/appeals/withdrawals-extenuating-circumstances.html
+0_1_11,Policies and Procedures,0,https://www.sfu.ca/students/enrolment-services/policies-and-procedures.html
+0_1_11_1,Academic Concessions,0,https://www.sfu.ca/students/enrolment-services/policies-and-procedures/academic-concessions.html
+0_1_12,Academic Integrity,0,https://www.sfu.ca/students/enrolment-services/academic-integrity.html
+0_1_12_1,Academic Integrity Violations,0,https://www.sfu.ca/students/enrolment-services/academic-integrity/violations.html
+0_1_12_2,Putting Yourself at Risk,3,https://www.sfu.ca/students/enrolment-services/academic-integrity/putting-yourself-at-risk.html
+0_1_12_3,Support and Resources,0,https://www.sfu.ca/students/enrolment-services/academic-integrity/support-and-resources.html
+0_1_12_4,Using Generative AI,0,https://www.sfu.ca/students/enrolment-services/academic-integrity/using-generative-ai.html
+0_1_12_5,Academic Disciplinary Process,0,https://www.sfu.ca/students/enrolment-services/academic-integrity/academic-disciplinary-process.html
+0_1_12_6,Faculty,0,https://www.sfu.ca/students/enrolment-services/academic-integrity/faculty.html
+0_1_12_7,Teaching Assistants,0,https://www.sfu.ca/students/enrolment-services/academic-integrity/teaching-assistants.html
+0_1_12_8,Academic Integrity Week,0,https://www.sfu.ca/students/enrolment-services/academic-integrity/academic-integrity-week.html
+0_1_13,Tax Receipts and Forms,0,https://www.sfu.ca/students/enrolment-services/tax-receipts-and-forms.html
+0_1_13_1,Sin Number,0,https://www.sfu.ca/students/enrolment-services/tax-receipts-and-forms/sin.html
+0_1_13_2,T4A,0,https://www.sfu.ca/students/enrolment-services/tax-receipts-and-forms/t4a.html
+0_1_13_3,T2202,0,https://www.sfu.ca/students/enrolment-services/tax-receipts-and-forms/t2202.html
+0_1_13_4,1098-T,0,https://www.sfu.ca/students/enrolment-services/tax-receipts-and-forms/1098-t.html
+0_1_14,Get Help,0,https://www.sfu.ca/students/enrolment-services/get-help.html
+0_1_14_1,Get Help with GoSFU/Student Centre,1,https://www.sfu.ca/students/enrolment-services/get-help/gosfu.html
+0_1_14_2,"Get help with Adding, Dropping and Wwapping Classes Topics",0,https://www.sfu.ca/students/enrolment-services/get-help/adding-swapping-dropping-courses.html
+0_1_14_3,Get Help with ID Cards,0,https://www.sfu.ca/students/enrolment-services/get-help/id-card.html
+0_1_14_4,Get Help with U-Pass BC,0,https://www.sfu.ca/students/enrolment-services/get-help/upass-bc.html
+0_1_14_5,Get Help with Fees,2,https://www.sfu.ca/students/enrolment-services/get-help/fees.html
+0_1_14_6,Get Help with Graduation,0,https://www.sfu.ca/students/enrolment-services/get-help/applying-for-graduation.html
+0_1_14_7,Get Help with Transcripts,0,https://www.sfu.ca/students/enrolment-services/get-help/transcripts.html
+0_1_14_8,Get Help with Locations and Hours,0,https://www.sfu.ca/students/enrolment-services/get-help/hours-and-location.html
+0_1_14_9,Get Help with Other Problem,0,https://www.sfu.ca/students/enrolment-services/get-help/other.html
+0_2,Finances,2,https://www.sfu.ca/students/finances.html
+0_2_1,Undergradutation Tuition Fees,2,https://www.sfu.ca/students/calendar/2026/spring/fees-and-regulations/tuition-fees/undergraduate.html#domestic
+0_2_1_1,Academic Calender,0,https://www.sfu.ca/students/calendar/2025/fall.html
+0_2_1_2,Graduate Tuition Fees,2,https://www.sfu.ca/students/calendar/2026/spring/fees-and-regulations/tuition-fees/graduate.html
+0_2_1_3,Dates & Deadlines,0,https://www.sfu.ca/students/deadlines/spring.html
+0_2_1_4,Fees,2,https://www.sfu.ca/students/enrolment-services/fees.html
+0_2_1_5,Policies and Procedures,0,https://www.sfu.ca/students/calendar/2026/spring/fees-and-regulations/enrolment/policies-and-procedures.html#MIR
+0_2_1_6,Medical Insurance,3,https://www.sfu.ca/medical-insurance.html
+0_2_1_7,Student Care,0,https://www.studentcare.ca/
+0_2_1_8,Change-of-coverage period,0,https://www.studentcare.ca/rte/en/SimonFraserUniversityundergraduatestudentsSFSS_ChangeofCoverage_ChangeofCoveragePeriod
+0_2_1_9,Mandatory Supplementary Course Fees,2,https://www.sfu.ca/students/calendar/2026/spring/fees-and-regulations/tuition-fees/mandatory-supplementary-course-fees.html
+0_2_1_10,Refund information,2,https://www.sfu.ca/students/enrolment-services/fees/refunds.html
+0_2_1_11,Tuition refund policy,2,https://www.sfu.ca/students/enrolment-services/fees/refunds/policies.html
+0_2_1_12,goSFU,1,https://sims.erp.sfu.ca/psc/csprd/EMPLOYEE/SA/s/WEBLIB_SFU.ISCRIPT1.FieldFormula.IScript_CASSignin?&
+0_2_1_13,Tax receipts and forms,0,https://www.sfu.ca/students/enrolment-services/tax-receipts-and-forms.html
+0_2_1_14,T4A,0,https://www.sfu.ca/students/enrolment-services/tax-receipts-and-forms/t4a.html
+0_2_2,Financial and Awards,2,https://www.sfu.ca/students/financial-aid.html
+0_2_2_1,Contact,0,https://www.sfu.ca/students/financial-aid/contact.html#book
+0_2_2_2,Government Loans and grants,2,https://www.sfu.ca/students/financial-aid/undergraduate/loans-and-grants.html
+0_2_2_3,How to pay fees,2,https://www.sfu.ca/students/enrolment-services/fees/how-to-pay.html
+0_2_2_4,Parents and Guardians,0,https://www.sfu.ca/students/financial-aid/parents.html
+0_2_2_5,"Entrance Scholarships, Awards and Bursaries",2,https://www.sfu.ca/students/financial-aid/entrance.html
+0_2_2_6,Undergraduate,0,https://www.sfu.ca/students/financial-aid/undergraduate.html
+0_2_2_7,Graduate,0,https://www.sfu.ca/students/financial-aid/graduate.html
+0_2_2_8,International,0,https://www.sfu.ca/students/financial-aid/international.html
+0_2_2_9,Indigenous,3,https://www.sfu.ca/students/financial-aid/indigenous.html
+0_2_2_10,Students with Disabilities,0,https://www.sfu.ca/students/financial-aid/undergraduate/students-with-disabilities.html
+0_2_2_11,Typical Costs,2,https://www.sfu.ca/students/financial-aid/plan/typical-costs.html
+0_2_2_12,Financial Planning,0,https://www.sfu.ca/students/mysfuplan/financial-planning.html
+0_3,Advising,1,https://www.sfu.ca/students/academic-success.html
+0_3_1,Adacemic Advising,1,https://www.sfu.ca/students/academicadvising.html
+0_3_1_1,University Prep,0,https://www.sfu.ca/students/newundergrads/summer/university-prep.html.html
+0_3_1_2,Student Services Academic Advising,1,https://www.sfu.ca/students/academicadvising/contact.html
+0_3_1_3,Departmental Advisors,0,https://www.sfu.ca/students/academicadvising/contact/departmental-advisors.html
+0_3_1_4,Events,0,https://www.sfu.ca/students/academicadvising/events.html
+0_3_2,Back on Track,0,https://www.sfu.ca/students/bot.html
+0_3_3_1,Program Overivew,1,https://www.sfu.ca/students/bot/program-overview.html
+0_3_3_2,New Intake Information,0,https://www.sfu.ca/students/bot/new-intake.html
+0_3_3_3,Academic Difficulty,0,https://www.sfu.ca/students/academicadvising/difficulty.html
+0_3_4,Plan your Degree,0,https://www.sfu.ca/students/academicadvising/degreeplanner.html
+0_3_5,Academic Self-Serve Resources (GPA Calculator),0,https://www.sfu.ca/students/advising-resources/calculators/gpa-calculator.html
+0_4,Career and Volunteer Oppurtunities,3,https://www.sfu.ca/students/career-and-volunteer.html
+0_4_1,Co-operative Education,3,https://www.sfu.ca/coop.html
+0_4_1_1,Roadmap to Co-op,3,https://www.sfu.ca/coop/roadmap.html
+0_4_1_2,Co-op Advice and Support,3,https://www.sfu.ca/coop/advice-and-support.html
+0_4_1_3,Co-op Contact Us,3,https://www.sfu.ca/coop/contact.html
+0_4_2,Co-op Apply,3,https://www.sfu.ca/coop/apply.html
+0_4_2_1,Co-op Costs and Deadlines,2,https://www.sfu.ca/coop/costs-and-deadlines.html
+0_4_2_2,myExperience,3,https://cas.sfu.ca/cas/login
+0_4_2_3,goSFU,1,https://sims.erp.sfu.ca/
+0_4_3,Considering Co-Op abroad,3,https://www.sfu.ca/coop/international/considering.html
+0_4_4,Career and Volunteer,3,https://www.sfu.ca/students/career.html
+0_4_4_1,Career and Volunteer Explore,3,https://www.sfu.ca/students/career/explore.html
+0_4_4_2,Career and Volunteer Prepare,3,https://www.sfu.ca/students/career/prepare.html
+0_4_4_3,Career and Volunteer Workshops and Events,3,https://www.sfu.ca/students/career/workshops-and-event.html
+0_4_4_4,Work and Volunteer Oppurtunities,3,https://www.sfu.ca/students/career/paid-and-work-opportunities.html
+0_4_4_5,Career and Volunteer Resources,3,https://www.sfu.ca/students/career/resources.html
+0_4_4_6,WCID,0,https://www.sfu.ca/students/career/WCID.html
+0_4_4_7,Book a group session,0,https://www.sfu.ca/students/career/workshops-and-event/book-a-group-session.html
+0_4_5,Get Involved,0,https://www.sfu.ca/students/get-involved.html
+0_4_5_1,Peer Education,0,https://www.sfu.ca/students/get-involved/groups/peer-education.html
+0_4_5_2,Leadership Programs,1,https://www.sfu.ca/students/get-involved/groups/leadership-programs.html
+0_4_5_3,Peer Mentorship,0,https://www.sfu.ca/students/get-involved/groups/peer-mentorship.html
+0_4_5_4,Volunteer,3,https://www.sfu.ca/students/get-involved/groups/volunteer.html
+0_4_5_5,SFSS,0,https://go.sfss.ca/
+0_4_5_6,GSS,0,https://sfugradsociety.ca/get-involved-2/
+0_4_5_7,I want to Volunteer,3,https://www.sfu.ca/students/career/paid-and-work-opportunities/i-want-to-volunteer.html
+0_4_5_8,Staff Resources,0,https://www.sfu.ca/students/get-involved/staff-resources.html
+0_4_5_9,Browse Programs and Oppurtunities,1,https://www.sfu.ca/students/get-involved/programs-and-opportunities.html
+0_4_6,List of Clubs,3,https://go.sfss.ca/clubs/list
+0_4_7,How to start a club,3,http://sfss.ca/how-tos-clubs/
+0_5,MySFUPlan,0,https://www.sfu.ca/students/mysfuplan.html
+0_5_1,Academic Planning,0,https://www.sfu.ca/students/mysfuplan/academic-planning.html
+0_5_1_1,What is meant by “course load”?,0,https://www.sfu.ca/students/mysfuplan/academic-planning/know.html
+0_5_1_2,What should I consider when planning my course load?,0,https://www.sfu.ca/students/mysfuplan/academic-planning/plan.html
+0_5_1_3,Contact,0,https://www.sfu.ca/students/academicadvising/contact.html
+0_5_1_4,Career Advising,1,https://www.sfu.ca/students/career/advising.html
+0_5_1_5,Enrolment Requirements for International Students,1,https://www.sfu.ca/students/isap/explore/enrolment.html
+0_5_1_6,Contact,0,https://www.sfu.ca/students/isap/contact.html
+0_5_1_7,Financial Planning,0,https://www.sfu.ca/students/mysfuplan/financial-planning.html
+0_5_1_8,Contact,0,https://www.sfu.ca/students/financial-aid/contact.html
+0_5_1_9,Centre for Accessible Learning (CAL),3,https://www.sfu.ca/students/accessible-learning.html
+0_5_1_10,Student Learning Commons: Home,0,https://www.lib.sfu.ca/about/branches-depts/slc?_gl=1*19f0gxb*_gcl_au*NjI1ODk2NTM4LjE3NjM2NzYxMzA.*_ga*MTg0MDk3ODg0MC4xNzUxMDEwOTU4*_ga_R4BCVYL1QF*czE3NjM4NDMxNzckbzYkZzEkdDE3NjM4NDU1MjAkajM1JGwwJGgw
+0_5_2,Financial Planning,0,https://www.sfu.ca/students/mysfuplan/financial-planning.html
+0_5_2_1,Scholarships,2,https://www.sfu.ca/students/financial-aid/undergraduate/scholarships.html
+0_5_2_2,Awards,2,https://www.sfu.ca/students/financial-aid/undergraduate/awards.html
+0_5_2_3,Bursaries,0,https://www.sfu.ca/students/financial-aid/undergraduate/bursaries.html
+0_5_2_4,Government Loans and grants,2,https://www.sfu.ca/students/financial-aid/undergraduate/loans-and-grants.html
+0_5_2_5,Indigenous,3,https://www.sfu.ca/students/financial-aid/indigenous.html
+0_5_2_6,US Student Resources,0,https://www.sfu.ca/students/financial-aid/international/us-student-resources.html
+0_5_2_7,Youth in Care,0,https://www.sfu.ca/students/financial-aid/undergraduate/youth-in-care.html
+0_5_2_8,"Entrance Scholarships, Awards and Bursaries",2,https://www.sfu.ca/students/financial-aid/entrance.html
+0_5_2_9,Co-operative Education,3,https://www.sfu.ca/students/financial-aid/undergraduate/coop.html
+0_5_2_10,Work-study,0,https://www.sfu.ca/students/financial-aid/undergraduate/work-study.html
+0_5_2_11,Jobs on Campus,0,https://www.sfu.ca/students/career/paid-and-work-opportunities.html#OnCampus
+0_5_2_12,Food Security,0,https://www.sfu.ca/food/programs/food-security.html
+0_5_2_13,Food Bank Program,1,https://sfss.ca/services/food-bank-program/
+0_5_2_14,Embark,0,https://www.embarksustainability.org/programs/food-rescue/
+0_5_2_15,SFU Food Pantry,0,https://www.sfu.ca/communityengagement/food-security/sfu-food-pantry.html
+0_5_2_16,The SFU Community Free Fridge!,0,https://www.sfu.ca/communityengagement/food-security/free-fridge.html
+0_5_2_17,Meal Plans,0,https://www.sfu.ca/food/mealplans.html
+0_5_2_18,Payment plan with Flywire,0,https://www.sfu.ca/students/enrolment-services/fees/how-to-pay/payment-plan.html
+0_5_2_19,Fusion Member Portal,0,https://athleticsandrecreation.its.sfu.ca/
+0_5_2_20,Health & Counselling,3,https://www.sfu.ca/students/health/
+0_5_2_21,Student Learning Commons: Home,0,https://www.lib.sfu.ca/about/branches-depts/slc
+0_5_2_22,Financial Aid and Awards,2,https://www.sfu.ca/students/financial-aid.html
+0_5_2_23,SFU Zoom,0,https://sfu.zoom.us/j/69873687214?pwd=bHBIeWtiSDFJZ3o4d2UvQWxuc2ZYdz09#success
+0_5_2_24,Sign in to Advisor Link,0,https://cas.sfu.ca/cas/login
+0_5_2_25,Request an appointment,0,https://www.sfu.ca/students/financial-aid/contact/request-an-appointment/
+0_5_3,Well-being Plan,0,https://www.sfu.ca/students/mysfuplan/well-being.html
+0_5_3_1,Identity & Community,0,https://www.sfu.ca/students/health/support-resources/identity.html
+0_5_3_2,Centre for Accessible Learning (CAL),3,https://www.sfu.ca/students/accessible-learning.html
+0_5_3_3,Food Security,0,https://www.sfu.ca/food/programs/food-security.html
+0_5_3_4,Financial Planning,0,https://www.sfu.ca/students/mysfuplan/financial-planning.html
+0_5_3_5,Academic Planning,0,https://www.sfu.ca/students/mysfuplan/academic-planning.html
+0_5_3_6,Student Learning Commons: Home,0,https://www.lib.sfu.ca/about/branches-depts/slc
+0_5_3_7,Student clubs,3,https://go.sfss.ca/clubs/list
+0_5_3_8,Women’s Centre,0,https://sfss.ca/wctr/
+0_5_3_9,Out On Campus (OOC),0,https://sfss.ca/ooc/
+0_5_3_10,Global Student Centre,3,https://www.sfu.ca/students/isap/gsc.html
+0_5_3_11,Indigenous Student Centre,3,https://www.sfu.ca/students/indigenous.html
+0_5_3_12,Welcome to the Multifaith Centre,3,https://www.sfu.ca/students/multifaith.html
+0_5_3_13,Student Services Academic Advising,1,https://www.sfu.ca/students/academicadvising/contact.html
+0_5_3_14,Departmental Advisors,0,https://www.sfu.ca/students/academicadvising/contact/departmental-advisors.html
+0_5_3_15,Career Advising,1,https://www.sfu.ca/students/career/advising.html
+0_5_3_16,Contact,0,https://www.sfu.ca/students/financial-aid/contact.html
+0_5_3_17,Contact Us,0,https://www.sfu.ca/students/isap/contact.html
+0_5_3_18,ISC Academic Support,0,https://www.sfu.ca/students/indigenous/programs-and-resources/academic-support.html
+0_5_3_19,Recreation,0,https://www.sfu.ca/recreation.html
+0_5_3_20,Fitness centre,0,https://www.sfu.ca/recreation/fitness.html
+0_5_3_21,Telus Student Support,3,https://studentsupport.telushealth.com/ca/home
+0_5_3_22,My SSP,0,https://www.sfu.ca/students/health/support-resources/my-ssp.html
+0_5_3_23,Talk to someone now,0,https://www.sfu.ca/students/health/support-resources/talk-now.html
+0_5_3_24,Medical Services,3,https://www.sfu.ca/students/health/see-a-doctor.html
+0_5_3_25,Counselling services & individual support,3,https://www.sfu.ca/students/health/support-resources/counselling-services.html
+0_5_3_26,Self-Led resources,0,https://www.sfu.ca/students/health/support-resources/self-led.html
+0_5_3_27,international students support options,3,https://www.sfu.ca/students/health/support-resources/counselling-services/SupportForInternationalStudents.html
+0_5_3_28,Indigenous Counselling Services,3,https://www.sfu.ca/students/indigenous/wellness/IndigenousCounsellingServices.html
+0_5_3_29,Campus public safety,3,https://www.sfu.ca/srs/campus-safety-security/public-safety.html
+0_5_3_30,Sexaul Violence,0,https://www.sfu.ca/sexual-violence.html
+0_5_3_31,"Office of Student Support, Rights & Responsibilities",3,https://www.sfu.ca/students/studentsupport.html
+0_6,Student Support and Services,3,https://www.sfu.ca/students/support-services.html
+0_6_1,CAL,0,https://www.sfu.ca/students/accessible-learning.html
+0_6_1_1,Learn more about CAL,0,https://www.sfu.ca/students/accessible-learning/learn-more-about-cal.html
+0_6_1_2,Registering with CAL,1,https://www.sfu.ca/students/accessible-learning/establishing-accommodations.html
+0_6_1_3,CAL Programs and Services,1,https://www.sfu.ca/students/accessible-learning/programs-and-services.html
+0_6_1_4,CAL Resources,3,https://www.sfu.ca/students/accessible-learning/general-resources.html
+0_6_1_5,CAL Faculty and Instructors,3,https://www.sfu.ca/students/accessible-learning/faculty.html
+0_6_1_6,CAL Utilizing Accomodations,3,https://www.sfu.ca/students/accessible-learning/utilizing-accommodations.html
+0_6_1_7,CAL Quick Links,3,https://www.sfu.ca/students/accessible-learning/quick-links.html
+0_6_1_8,CAL Contact Us,3,https://www.sfu.ca/students/accessible-learning/contact-us.html
+0_6_1_9,Accessibility for Students with Disabilities Policy,0,https://www.sfu.ca/policies/gazette/general/gp26.html
+0_6_1_10,CAL Transitioning to University Admission,1,https://www.sfu.ca/students/accessible-learning/prospective.html
+0_6_2,Health and Counselling Services,3,https://www.sfu.ca/students/health.html
+0_6_3,Indigenous Student Centre,3,https://www.sfu.ca/students/indigenous.html
+0_6_4,International Services for Students,0,https://www.sfu.ca/students/iss.html
+0_6_4_1,International Student Advising and Programs,1,https://www.sfu.ca/students/isap.html
+0_6_4_2,International Student Experience Support at the Global Student Centre,3,https://www.sfu.ca/students/isap/gsc/ises.html
+0_6_4_3,Exchange and Study Abroad to SFU,3,https://www.sfu.ca/students/exchange.html
+0_6_4_4,Study Abroad Advising,1,https://www.sfu.ca/students/studyabroad/contact.html
+0_6_4_5,Welcome Guides,0,https://www.sfu.ca/students/isap/welcome.html
+0_6_4_6,International Student Orientation Series,3,https://www.sfu.ca/students/isap/programs/intlorientation.html
+0_6_4_7,International FAQs,0,https://www.sfu.ca/students/isap/faqs-international.html
+0_6_4_8,Exchanges,3,https://www.sfu.ca/students/studyabroad/exchanges.html
+0_6_4_9,Virtual Exchanges,3,https://www.sfu.ca/students/studyabroad/virtualexchange.html
+0_6_4_10,Field Schools,3,https://www.sfu.ca/students/studyabroad/fieldschools.html
+0_6_4_11,Summer Programs,1,https://www.sfu.ca/students/studyabroad/summerprograms.html
+0_6_4_12,Leading a Field School,3,https://www.sfu.ca/students/studyabroad/fieldschools/leading-a-field-school.html
+0_6_4_13,Refugee Programs,1,https://www.sfu.ca/refugeeprograms.html
+0_6_4_14,Global Student Centre,3,https://www.sfu.ca/students/isap/gsc.html
+0_6_4_15,International Student Engagement Events,3,https://www.sfu.ca/students/isap/gsc/gscevents.html
+0_6_4_16,ISAP Events,0,https://www.sfu.ca/students/isap/events.html
+0_6_4_17,ISAP Contact,0,https://www.sfu.ca/students/iss/contact.html
+0_6_4_18,ISS Meet the Team,0,https://www.sfu.ca/students/iss/meet-the-team.html
+0_6_4_19,Study Abroad,3,https://www.sfu.ca/students/studyabroad.html
+0_6_4_20,ISAP Faculty and Staff Resources,0,https://www.sfu.ca/students/iss/faculty-staff.html
+0_6_5,MultiFaith Centre,3,https://www.sfu.ca/students/multifaith.html
+0_6_5_1,Faith Groups,3,https://www.sfu.ca/students/multifaith/about-us/faith-groups.html
+0_6_5_2,Faith Events,3,https://www.sfu.ca/students/multifaith/faith-gatherings/faith-events.html
+0_6_5_3,Faith Locations,3,https://www.sfu.ca/students/multifaith/locations.html
+0_6_5_4,Chaplain Chat + Support,3,https://www.sfu.ca/students/multifaith/resources/chaplain-chats.html
+0_6_5_5,Sunday Gatherings,0,https://www.sfu.ca/students/multifaith/faith-gatherings/sunday.html
+0_6_5_6,Tuesday Night Fellowship,0,https://www.sfu.ca/students/multifaith/faith-gatherings/faith-events/events-home/tnf.html
+0_6_5_7,Jummah,0,https://www.sfu.ca/students/multifaith/faith-gatherings/jummah.html
+0_6_5_8,Holy Mass,0,https://www.sfu.ca/students/multifaith/faith-gatherings/mass.html
+0_6_5_9,Religious Accomodation,0,https://www.sfu.ca/students/multifaith/resources/accommodation.html
+0_6_5_10,What's Happening,0,https://www.sfu.ca/students/multifaith/whats-on.html
+0_6_5_11,MultiFaith Blog,3,https://www.sfu.ca/students/multifaith/blog.html
+0_6_6,"Office of Student Support, Rights & Responsibilities",3,https://www.sfu.ca/students/studentsupport.html
+0_6_6_1,Community Supports,0,https://www.sfu.ca/sfu-community/community-supports.html
+0_6_6_2,S10.05 Student Conduct Policy,0,https://www.sfu.ca/policies/gazette/student/s10-05.html
+0_6_6_3,Student Conduct policy - FAQ,0,https://www.sfu.ca/students/studentsupport/faq.html
+0_6_6_4,Uncomfortable,0,https://www.sfu.ca/students/studentsupport/behaviours/uncomfortable.html
+0_6_6_5,Distressed,0,https://www.sfu.ca/students/studentsupport/behaviours/distressed.html
+0_6_6_6,Disruptive,0,https://www.sfu.ca/students/studentsupport/behaviours/disruptive.html
+0_6_6_7,Disturbing,0,https://www.sfu.ca/students/studentsupport/behaviours/disturbing.html
+0_6_6_8,Potential Danger,0,https://www.sfu.ca/students/studentsupport/behaviours/potential-danger.html
+0_6_6_9,Danger/Threat,0,https://www.sfu.ca/students/studentsupport/behaviours/danger-threat.html
+0_6_6_10,Share a Concern,0,https://www.sfu.ca/students/studentsupport/sc-form.html
+0_6_7,Sexual Violence Support & Prevention Office,0,https://www.sfu.ca/sexual-violence.html
+0_6_7_1,Sexual Violence Support & Prevention Office Connect with Us,0,https://www.sfu.ca/sexual-violence/contact-us.html
+0_6_7_2,Sexual Violence Support & Prevention Office We want to hear from you,0,https://www.sfu.ca/sexual-violence/about-us/share-feedback.html
+0_6_7_3,SVSPO Get Help,0,https://www.sfu.ca/sexual-violence/get-help.html
+0_6_7_4,Support Survivors,0,https://www.sfu.ca/sexual-violence/supporting-survivors.html
+0_6_7_5,Education and Prevention,0,https://www.sfu.ca/sexual-violence/education-prevention.html
+0_6_7_6,SVSPO Faculty,0,https://www.sfu.ca/sexual-violence/faculty.html
+0_6_7_7,SVSPO About Us,0,https://www.sfu.ca/sexual-violence/about-us.html
+0_6_8,Residence and Housing,3,https://www.sfu.ca/students/residences/contact.html
+0_6_8_1,Residence and Housing Directions,3,https://www.sfu.ca/students/residences/contact/directions.html
+0_6_8_2,SFU Guest Accomodations,0,https://www.sfu.ca/stayhere.html
+0_6_8_3,Why Live in Residence,3,https://www.sfu.ca/students/residences/why-live-in-residence.html
+0_6_8_4,Housing Options,3,https://www.sfu.ca/students/residences/housing-options.html
+0_6_8_5,Residence Fees,2,https://www.sfu.ca/students/residences/fees.html
+0_6_8_6,Apply for Residence,3,https://www.sfu.ca/students/residences/apply.html
+0_6_8_7,Moving In,0,https://www.sfu.ca/students/residences/moving-in.html
+0_6_8_8,Residence Community,3,https://www.sfu.ca/students/residences/community.html
+0_7,Health & Counselling,3,https://www.sfu.ca/students/health.html
+0_8,Centre for Accessible Learning (CAL),3,https://www.sfu.ca/students/accessible-learning.html
+0_9,Multifaith Centre,3,https://www.sfu.ca/students/multifaith.html
+0_10,Indigenous Student Centre,3,https://www.sfu.ca/students/indigenous.html
+0_11,Residence and Housing,3,https://www.sfu.ca/students/residences.html
+0_12,Undergraduate programs,1,https://www.sfu.ca/students/admission/programs.html
+0_13,Join the SFU community,0,https://www.sfu.ca/students/admission/apply.html
+0_14,Safety & Risk Services,3,https://www.sfu.ca/srs.html
+0_14_1,24/7 emergency contacts,3,https://www.sfu.ca/srs/contact/24-7-emergency-contacts.html
+0_14_2,Report a hazard,0,https://www.sfu.ca/srs/contact/report/report-hazard.html
+0_14_2_1,Safety committees,3,https://www.sfu.ca/srs/work-research-safety/safety-committees.html
+0_14_2_2,Contact Us,0,https://www.sfu.ca/fs/about/contact-us.html
+0_14_3,Report an incident,0,https://www.sfu.ca/srs/contact/report/report-incident.html
+0_14_3_1,Claims,0,https://www.sfu.ca/srs/risk-emergency-planning/insurance-risk/claims.html#main_content_title
+0_14_3_2,Incident reporting FAQ,0,https://www.sfu.ca/srs/work-research-safety/contact/report/report-incident/incident-reporting-faq.html
+0_14_3_3,Canvas sign-in,0,https://cas.sfu.ca/cas/login
+0_14_4,Safety Spectrum,3,https://www.sfu.ca/srs/work-research-safety/safety-spectrum.html
+0_14_4_1,Frequently Asked Questions,0,https://www.sfu.ca/srs/work-research-safety/safety-spectrum/FAQ.html
+0_15,Maps & Directions,0,https://www.sfu.ca/campuses/maps-and-directions/burnaby-map.html
+0_16,Admission,1,https://www.sfu.ca/admission
+0_17,Road Report,0,https://www.sfu.ca/srs/campus-safety-security/traffic-safety/road-report.html
+0_18,SFU Advancement,0,https://give.sfu.ca/
+0_19,Emergency information and procedures,3,https://www.sfu.ca/emergency
+0_20,A-Z Directory,0,https://www.sfu.ca/dir/a.html

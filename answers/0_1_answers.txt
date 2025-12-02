@@ -1,29 +1,159 @@
 1.
-Appointments can be scheduled in-person, virtually, or online.
+- Enrolment and course enrolment dates
+- Course change deadlines (add/drop/withdraw)
+- Tuition payment deadlines
+- Refund deadlines
+- Exam schedules and exam dates (including exam scheduling and hardship deadlines)
+- Graduation application, graduation-check and Convocation confirmation deadlines
+- Deadlines for ordering transcripts and requesting official documents
 
 2.
-Yes, there are online booking options available for appointments at SFU Health & Counselling services.
+Use SFU’s "Dates and Deadlines" page — click "See all dates and deadlines" on the SFU student services website.
 
 3.
-- Online booking options
-- Accessible booking options for those with accessibility needs or concerns
+Sign in to goSFU using your SFU credentials to access your Student Centre.
 
 4.
-- Maggie Benston Centre: 9:30 am – 4:30 pm, Monday – Friday
-- Harbour Centre Room 300 (Tuesdays & Fridays): 9:30 am – 4:30 pm (Closed for lunch from 12:30 pm to 1:30 pm)
-- Harbour Centre Room 300 (Monday - Friday): 9:30 am – 4:15 pm (Closed for lunch from 12:30 pm to 1:30 pm)
+1. Log in to goSFU with your SFU Computing ID and password.  
+2. Open the Student Centre.  
+3. Select the term you want to enrol in.  
+4. Go to “Enrolment” → “Manage Classes” (or “Enrol”) in the Student Centre.  
+5. Search for courses by subject, course number, or use the class search/timetable tool to find sections.  
+6. Add desired sections to your Enrolment Cart or choose “Enrol” directly.  
+7. Resolve holds, unmet prerequisites, or obtain permission numbers if required.  
+8. Enrol during your assigned enrolment appointment or when registration opens by confirming and submitting the enrolment.  
+9. Check your enrolment status/timetable to confirm you’re registered or waitlisted; accept waitlist offers when available.  
+10. Pay tuition/fees by the deadline to secure your enrolment; use “Swap” to change sections without losing your spot and drop classes before deadlines if needed.
 
 5.
-Students can request their medical records from SFU by contacting roi@sfu.ca.
+When: Check SFU’s important dates and deadlines — term-specific enrolment and course-change periods (and your enrolment appointment time) are posted on the Dates & Deadlines page, the Academic Calendar, and in your Student Centre.
+
+How: Enrol online via goSFU (Student Centre) — log in to goSFU, search/select courses and add them during your enrolment appointment; use the Student Centre for course info, schedules, grades and graduation steps.
 
 6.
-Students should use the new self-declaration form for minor short-term illness absences (1-5 days). Additional medical documentation may be required for longer absences.
+Student Centre
+Academic Calendar
 
 7.
-The new electronic health records system means easier access to medical records, improved communication between healthcare providers, and enhanced coordination of care for SFU students.
+- Log in to goSFU.
+- Open your Student Centre.
+- Go to the Grades (or Academic Records/Grades) section to view your grades.
 
 8.
-Front desk at Burnaby campus: 778.782.4615
-Front desk at Vancouver campus: 778.782.5200
-Front desk at Surrey campus: 778.782.5200
+- Use the Academic Progress Report (APR) to track your degree requirements.  
+- See what you’ve completed and what remains outstanding.  
+- Explore how your courses might transfer to another program.  
+- View your grades anytime in your Student Centre.
+
+9.
+Use the Academic Progress Report (APR) to track your degree requirements and see what you’ve completed. You can also view your grades anytime in your Student Centre.
+
+10.
+Use the Academic Progress Report (APR) to track degree requirements, see what you’ve completed, and explore how your courses might transfer to another program (access via your Student Centre/goSFU).
+
+11.
+Order them online through goSFU (Student Centre) — use the “Order an Official Transcript” / “Request official documentation” options to request transcripts, confirmation of enrolment, and other records.
+
+12.
+- Apply to graduate: log in to goSFU (Student Centre) and submit your application to graduate.  
+- Complete your graduation check: use the Academic Progress Report (APR) in goSFU to track degree requirements, verify completed/remaining courses, complete the graduation check, then confirm your Convocation attendance.
+
+13.
+Complete your graduation check and apply to graduate in your Student Centre (goSFU), then confirm your Convocation attendance through the Convocation/Graduation section on the SFU website or Student Centre.
+
+14.
+Request official documentation (confirmation of enrolment, transcripts, etc.) through goSFU/your Student Centre by ordering the required documents.
+
+15.
+- Go to the SFU ID card information page (via goSFU/Student Centre) and follow the instructions and FAQs.  
+- Request or activate your card as directed on that page and bring any required ID/documents.  
+- Pick up your card in person at the SFU ID card office on the Burnaby, Surrey, or Vancouver campus.  
+- For replacements or name updates, follow the procedures on the same webpage or contact the ID card team for assistance.
+
+16.
+- Access libraries
+- Access labs
+- Use for exams
+- Access other student services
+
+17.
+Report it as lost or stolen and request a replacement. Contact SFU ID Card Services via the "get help" link or visit an ID card office in person on the Burnaby, Surrey, or Vancouver campus to arrange a replacement.
+
+18.
+Go to the "Your SFU ID card" page on SFU's Student Services website (via goSFU/Student Centre) and follow the instructions there to update your name. If you need assistance, use the "get help" options on that page or visit a Student Services office.
+
+19.
+On the SFU ID card page on the SFU website (Student Services).
+
+20.
+A mandatory program that provides SFU students with unlimited access to public transit in Metro Vancouver using a Compass Card.
+
+21.
+Go to SFU's U‑Pass BC webpage to learn about the program and check your eligibility, fees, and FAQs.
+
+22.
+- Make sure your U‑Pass BC is loaded onto an active Compass Card (issued/activated through SFU).
+- Tap your Compass Card on the card reader when boarding buses or at SkyTrain/SeaBus fare gates/validators; hold until you see a green light/beep.
+- You don’t need to tap off for U‑Pass trips covered by the program.
+- Carry your Compass Card while travelling and present it to transit staff or inspectors if asked.
+- If your card is lost, stolen, or not working, contact SFU/TransLink to replace the card and transfer your U‑Pass.
+
+23.
+Learn about the fees on your student account, how to make payments, and how to request refunds.
+
+24.
+- View the fees on your student account and follow the instructions on SFU’s website for making payments and requesting refunds.  
+- Access your account and related services via goSFU/Student Centre.  
+- If you need help, use the “get help” contact options or visit SFU offices on the Burnaby, Surrey, or Vancouver campuses (8888 University Drive, Burnaby, BC V5A 1S6).
+
+25.
+- Log in to goSFU and open your Student Centre to view your student account and request a refund.  
+- Follow the refund instructions on the Fees & Payments (student account) page.  
+- Check important SFU dates and deadlines for refund eligibility.  
+- If you need help, contact Student Accounts/Financial Services or use the “get help” link or visit an SFU office (Burnaby, Surrey, or Vancouver).
+
+26.
+- Check your exam schedule in goSFU: sign in and look up exam schedules in your Student Centre (also review course information there).  
+- Understand your student responsibilities by reading SFU’s exam information pages (exam scheduling procedure, student responsibilities, available study spaces, and exam hardship guidance) and the Academic Calendar for official policies; make sure you have your SFU ID card for exams.
+
+27.
+Available study spaces: libraries, labs and other student study spaces (including bookable/group study rooms).
+
+How to find them: explore the “available study spaces” information on the SFU website (exam/study spaces page), check related pages linked from Manage Your Studies, and get help online or in person at SFU Burnaby, Surrey or Vancouver campus offices. Use your SFU ID card for access where required.
+
+28.
+Exam scheduling procedure: Check your exam schedule in your Student Centre, review the official scheduling procedure and your student responsibilities, and use available study spaces as needed.
+
+If you experience exam hardship: Explore the supports and resources available to SFU students and connect with the appropriate team for assistance (see the FAQs/get help resources).
+
+29.
+- Appeals and other support services
+- Exam hardship support
+- Assistance with enrolment, tuition and fees, and important dates/deadlines
+- Getting or replacing your SFU ID card
+- Help online and in person at SFU offices (Burnaby, Surrey, Vancouver)
+- Academic tools and advising (Academic Progress Report, Student Centre for grades, enrolment, applying to graduate)
+- Requesting official documents (transcripts, confirmation of enrolment letters)
+
+30.
+Read the FAQs and then connect with the appropriate SFU team for help. You can get assistance online or in person at SFU offices on the Burnaby, Surrey, and Vancouver campuses.
+
+31.
+On the SFU "Manage your studies" page — read through the FAQs there (or click the "get help" link).  
+Connect with the right team via the "get help" link or by contacting Student Services online or in person at SFU Burnaby, Surrey, or Vancouver (8888 University Drive, Burnaby, BC V5A 1S6).
+
+32.
+Yes — help is available both online and in person at SFU (Burnaby, Surrey, and Vancouver campuses).
+
+33.
+Burnaby, Surrey, Vancouver
+
+34.
+8888 University Drive, Burnaby, B.C., Canada V5A 1S6
+
+35.
+On SFU’s website — the Academic Calendar.
+
+36.
+xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo, Tsawwassen
 

@@ -1,10 +1,25 @@
-1. How can students access the Telus Health Student Support Program (My SSP)?
-2. What type of support does My SSP provide to SFU and FIC students?
-3. Is the information provided to My SSP shared with SFU?
-4. What are some general topics that students can connect with My SSP about?
-5. How can students access My SSP outside of North America?
-6. What are the options for making a call to My SSP outside of the US or Canada?
-7. How can students use the chat function through the My SSP app while traveling abroad?
-8. What are the phone numbers for contacting My SSP outside of the US or Canada?
-9. What are the conditions for making a call to My SSP via Wi-Fi connection?
-10. How can students access support from My SSP on different SFU campuses?
+- What is the purpose of the GPA Calculator?
+- What calculator modes can I select?
+- What does the "C/GPA calculator" mode do?
+- What does "GPA for target CGPA" mode do?
+- What does "Units for target CGPA" mode do?
+- How do I add or remove a course in the calculator?
+- What buttons are available to calculate or reset values in the calculator?
+- How do I calculate my cumulative GPA using the tool?
+- How do I calculate the GPA required to reach a target CGPA?
+- How do I calculate the number of units required to reach a target CGPA?
+- Will the GPA Calculator work if I have a repeated course on my transcript?
+- Where can I get assistance recalculating my GPA if I have repeats?
+- What is the definition of CGPA (cumulative grade point average)?
+- What is the definition of Term GPA (term grade point average)?
+- How can I find my total units attempted?
+- Does total units attempted include units in progress?
+- Does total units attempted include courses with an F or N grade?
+- Can I use the GPA Calculators with transfer or non-SFU grades?
+- What should transfer students be aware of regarding internal transfer GPAs?
+- Where can I book an appointment with an Academic Advisor?
+- Are repeat or duplicate courses automatically factored into the GPA Calculators?
+- What phone number can I call for RIS?
+- Is LiveHelp available for assistance?
+- Where is the university located (address provided)?
+- Where can I see the hours of operation for LiveHelp or RIS?

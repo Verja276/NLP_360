@@ -1,0 +1,237 @@
+1.
+SFU’s Safety Management System (SMS) called Safety Spectrum — a centralized platform for managing safety processes, including incident reporting and tracking, incident investigations, worksite inspections and corrective actions, contractor safety, and tracking safety training completion.
+
+2.
+Frequently Asked Questions (FAQs)
+Training Records
+Incident Reporting & Investigation
+
+3.
+Safety Management System
+
+4.
+F: Frequently Asked Questions (FAQs)
+
+T: Training Records — track safety training completion, generate certificates, supervisors view direct reports, links with Canvas & PeopleSoft, issues expiration reminders
+
+I: Incident Reporting & Investigation — report and document incidents, support investigations and WorkSafeBC claims, track corrective actions
+
+5.
+To serve as a centralized platform for managing safety processes (incident reporting/tracking, investigations, inspections, corrective actions, contractor safety, and training) and to raise awareness, improve record keeping, and build a stronger safety culture.
+
+6.
+F — srs-sms-feedback@sfu.ca (general inquiries / feedback about Safety Spectrum)
+
+T — Training Records: track training completion and certificates; supervisors can view direct reports; links with Canvas and PeopleSoft; issues expiration reminders and supports compliance
+
+I — Inspections: perform and record ergonomics and other workplace/lab inspections in real time; track corrective actions; use existing templates and monitor trends
+
+7.
+Report and track incidents
+Complete incident investigations
+Complete worksite inspections
+Track corrective actions
+Manage contractor safety
+Track safety training completion
+
+8.
+Frequently Asked Questions (FAQs)
+Training Records
+Incident Reporting & Investigation
+
+9.
+- Log in to Safety Spectrum.  
+- Open the Incident Reporting & Investigation module.  
+- Complete and submit the online incident report, documenting the incident details to support investigation and any future claims.  
+- After submission the incident will be investigated and corrective actions tracked; for general inquiries email srs-sms-feedback@sfu.ca.
+
+10.
+T
+
+11.
+Incident details
+Incident investigation documentation
+Corrective actions, including assignment of responsibility and completion tracking
+Information to support a worker’s WorkSafeBC compensation claim
+
+12.
+T
+T
+T
+T
+
+13.
+By documenting incident details to support the worker’s compensation claim to WorkSafeBC, providing evidence for investigations and timelines.
+
+14.
+srs-sms-feedback@sfu.ca
+
+Allows employees to track safety training completion and generate training certificates; supervisors can view direct reports; syncs with Canvas and PeopleSoft; issues training-expiration reminders.
+
+Enables timely reporting of safety incidents, documents details to support investigations and WorkSafeBC claims, and tracks corrective actions with assigned responsibility and completion.
+
+15.
+Corrective actions identified during the incident investigation are tracked in Safety Spectrum to ensure clear assignment of responsibility and timely completion.
+
+16.
+F: srs-sms-feedback@sfu.ca
+
+T: Training Records module — lets employees track safety training completion and generate certificates; supervisors can view direct reports’ records; links with Canvas and PeopleSoft; issues training-expiration reminders and supports compliance reviews.
+
+I: Incident Reporting & Investigation module — enables timely online incident reporting to document details for investigation and WorkSafeBC claims; tracks corrective actions with clear assignment and timely completion.
+
+17.
+srs-sms-feedback@sfu.ca
+
+18.
+For general inquiries regarding Safety Spectrum: srs-sms-feedback@sfu.ca
+
+Training Records: allows employees to track safety training completion and generate certificates; supervisors can view direct reports’ training; integrates with Canvas and PeopleSoft; issues training-expiration reminders and supports compliance reviews
+
+Inspections: enables real-time ergonomics assessments, access to historical data and trend monitoring; tracks corrective actions; Inspections Management supports safety committees, lab managers and EHS staff with templates for committees, labs, workstation assessments and hazard-specific assessments
+
+19.
+By using the Training Records module in Safety Spectrum, which lets employees track completion, generate training certificates, links with Canvas and PeopleSoft, and issues training expiration reminders.
+
+20.
+Frequently Asked Questions (FAQs)
+Training Records
+Inspections
+
+21.
+Yes.
+
+22.
+Frequently Asked Questions (FAQs)
+Training Records
+Incident Reporting & Investigation
+
+23.
+Canvas and PeopleSoft
+
+24.
+F: Frequently Asked Questions (FAQs)
+T: Training Records
+I: Inspections
+
+25.
+Yes
+
+26.
+F — Frequently Asked Questions (FAQs)
+T — Training Records
+I — Incident Reporting & Investigation
+
+27.
+On the Safety Spectrum site — "A list and description of available safety training courses is available here."
+
+28.
+Incident Reporting & Investigation
+Training Records
+Inspections
+
+29.
+Perform and record ergonomics assessments in real-time
+Access historical data
+Monitor trends
+Track corrective actions
+Make inspections more collaborative
+Improve record keeping
+
+30.
+F: Frequently Asked Questions (FAQs)
+T: Training Records
+I: Inspections
+
+31.
+safety committees
+Lab Managers
+EHS staff
+other SFU employees responsible for performing inspections of their workplaces
+
+32.
+srs-sms-feedback@sfu.ca
+
+33.
+- Safety committees
+- Laboratories
+- Workstation assessments
+- Specialized equipment
+- Other hazard-specific assessments
+
+34.
+Safety Spectrum
+srs-sms-feedback@sfu.ca
+Incident reporting & investigation; Training Records; Inspections; Contractor safety; Corrective actions tracking
+Links with Canvas and PeopleSoft
+8888 University Drive, Burnaby, B.C., Canada V5A 1S6
+
+35.
+It facilitates tracking corrective actions by recording, assigning and monitoring actions to ensure timely completion, and it supports trend monitoring by providing real‑time assessments plus access to historical inspection data to identify patterns.
+
+36.
+Frequently Asked Questions (FAQs), Training Records, Inspections
+
+37.
+here
+
+38.
+Safety Spectrum
+
+srs-sms-feedback@sfu.ca
+
+Incident Reporting & Investigation; Training Records; Inspections (Inspections Management)
+
+Integrates with Canvas and PeopleSoft
+
+Purpose: centralized platform for reporting/tracking incidents, investigations, inspections, corrective actions, contractor safety, and training records to improve safety culture and record keeping
+
+8888 University Drive, Burnaby, B.C., Canada V5A 1S6
+
+39.
+Yes
+
+40.
+F: srs-sms-feedback@sfu.ca
+
+T: Training records module — track safety training completion and generate certificates; supervisors can view direct reports’ records; integrates with Canvas and PeopleSoft; issues training expiration reminders and supports compliance reviews.
+
+I: Incident reporting & investigation — report and track incidents, support investigations and WorkSafeBC claims, and track corrective actions with clear assignment and completion; Inspections module — perform/record ergonomics and other workplace/lab inspections in real time, access historical data, monitor trends, and track corrective actions using available templates.
+
+41.
+- Centralizes management of safety processes  
+- Raises awareness and visibility of health & safety processes  
+- Improves record keeping and data accuracy  
+- Enables timely incident reporting and thorough investigations to prevent recurrence  
+- Tracks corrective actions to ensure clear responsibility and timely completion  
+- Manages training records and expirations to support compliance  
+- Facilitates inspections, assessments, and monitoring of safety trends
+
+42.
+F: Frequently Asked Questions (FAQs)
+T: Training Records
+I: Inspections
+
+43.
+- Ensures incident details are documented for accurate record keeping  
+- Enables timely reporting to support prompt investigation  
+- Supports prevention of similar incidents through documented investigations  
+- Provides documented evidence to support WorkSafeBC compensation claims  
+- Tracks corrective actions with clear assignment of responsibility and timely completion
+
+44.
+Frequently Asked Questions (FAQs)
+Training Records
+Inspections
+
+45.
+8888 University Drive, Burnaby, B.C., Canada V5A 1S6
+
+46.
+Frequently Asked Questions (FAQs)
+Training Records
+Inspections
+
+47.
+xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo, Tsawwassen
+

@@ -1,0 +1,18 @@
+1. What should you check in your browser before entering your password?
+2. What URL should this page start with?
+3. Which icon should your browser show when accessing this page?
+4. What should you do if you're not sure about entering your password?
+5. Which key is turned on according to the page?
+6. What will SFU never request via email or by going to any web site?
+7. How should SFU users respond to messages requesting Computing ID and/or password information?
+8. Where can you find more information on phishing according to the page?
+9. Why might you log in now, according to the page?
+10. What is the street address for IT Services?
+11. In which building and room is IT Services located?
+12. What is the postal code for IT Services?
+13. In which city and province is IT Services located?
+14. What country is listed for IT Services?
+15. Which Indigenous peoples and nations does Simon Fraser University acknowledge on whose unceded traditional territories the campuses reside?
+16. What is the full drive address number listed for Simon Fraser University?
+17. Which department or service is associated with the Strand Hall address?
+18. What warning about password protection is repeated on the page?

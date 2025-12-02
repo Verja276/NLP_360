@@ -1,0 +1,13 @@
+1. What three letters appear at the top of the extracted text?
+2. What two academic services or headings are listed?
+3. What is the full street address shown?
+4. In which city is the address located?
+5. In which province is the address located?
+6. What is the postal code in the address?
+7. Which country is listed in the address?
+8. Which university is named in the copyright line?
+9. What legal or policy links are mentioned?
+10. How many campuses does the text say the university has?
+11. On whose unceded traditional territories do the university’s campuses reside?
+12. Which Indigenous peoples are specifically named in the land acknowledgement?
+13. What is the full name of the university as indicated by the address and copyright?

@@ -1,0 +1,25 @@
+- What is the Academic Progress Report (APR)?
+- How does the APR help advisors and undergraduate students?
+- Can the APR be used to evaluate how courses might transfer into a different program?
+- How can a student explore transfer scenarios using the APR?
+- Who can run a What-If report to simulate a hypothetical summary?
+- Can students run a What-If report themselves?
+- What is the My Planner feature within the APR?
+- Can students use My Planner to enroll in courses?
+- Can an advisor place courses into a student’s My Planner?
+- Can an advisor view a student’s planned courses in My Planner?
+- How do you navigate to run an Academic Progress Report in the system?
+- What should you input under ID when adding a new APR request?
+- Which report type should be selected to run the Academic Progress Report?
+- What should the Report Date default to when running the APR?
+- What should the As of Date default to when running the APR?
+- After clicking Process Request, what is the next step to load the APR?
+- Who can schedule an APR training workshop upon request?
+- How can staff register for an APR training workshop?
+- Who provides access to the APR training manual?
+- Does Senate and Academic Services code course changes directly into the APR?
+- Where are course changes made so they carry over to the APR?
+- How does Senate and Academic Services handle coding of Senate changes?
+- Who should be contacted for problems or errors that affect all students in a program or plan?
+- What form should be submitted for requests that apply to individual student records?
+- Where can users submit feedback or questions about the APR?

@@ -1,24 +1,68 @@
 1.
-Hushmail protects emails using end-to-end encryption.
+Undergraduate: Sign in to goSFU with your SFU computing ID and view your Enrolment appointment.  
+Graduate: Check the Graduate and Postdoctoral Studies website for enrolment appointment information.
 
 2.
-To protect email confidentiality and sensitive information.
+Graduate and Postdoctoral Studies website
 
 3.
-If a user loses or forgets their passphrase for Hushmail, their account can be "reset" but all the forms that were sent to them will be automatically deleted, potentially delaying services.
+See all dates and deadlines
 
 4.
-Yes, there is a time limit or expiration for completing forms sent through Hushmail.
+Use the "Browse/search classes" tool to search and browse for classes.  
+Follow the "Learn how to plan your class schedule" guidance — and if you’re newly admitted, complete University Prep: Step One and Two for enrolment support.
 
 5.
-- If a user needs to reset their passphrase for Hushmail, they should do so and then contact the front desk to have any documents re-sent. 
-- The user can contact the Burnaby campus at 778.782.4615, the Vancouver campus at 778.782.5200, or the Surrey campus at 778.782.5200 for assistance with resetting their passphrase.
+University Prep: Step One and Two
 
 6.
-Burnaby campus: 778.782.4615
-Vancouver campus: 778.782.5200
-Surrey campus: 778.782.5200
+Provide enrolment support by guiding newly admitted undergraduate students step by step through what they need to know and do before classes start.
 
 7.
-Simon Fraser University acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo and Tsawwassen peoples on whose unceded traditional territories their three campuses reside.
+How to enrol
+Waitlist
+Dropping/withdrawing
+
+8.
+The provided context does not include details on SFU’s waitlist process. For information, contact Registrar and Information Services: reginfo@sfu.ca or 778‑782‑6930, or launch LiveHelp via goSFU.
+
+9.
+See the "Dropping/withdrawing" section on the SFU enrolment pages (under "Terminology"/"How to enrol").  
+Check important dates and deadlines (See all dates and deadlines).  
+Contact Registrar and Information Services: reginfo@sfu.ca, Phone 778‑782‑6930, or Launch LiveHelp (sign in with SFU computing ID).
+
+10.
+reginfo@sfu.ca
+
+11.
+778 782 6930
+
+12.
+778 782 4969
+
+13.
+Using the Future Students portal
+
+14.
+Launch LiveHelp and sign in using your SFU computing ID through a secure connection.
+
+15.
+goSFU
+Enrolment
+Academic dates and deadlines
+Tuition
+University policies and regulations
+Transcript requests
+SFU ID cards
+Form completion and custom letters
+
+16.
+Sign in using your SFU computing ID through a secure connection.
+
+17.
+8888 University Drive
+Burnaby, B.C., Canada V5A 1S6
+
+18.
+xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo, Tsawwassen
 

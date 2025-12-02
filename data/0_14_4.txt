@@ -1,0 +1,32 @@
+F T I
+
+SFU’s Safety Management System (SMS) entitled Safety Spectrum, is a centralized platform for managing safety processes. Safety Spectrum is used to report and track incidents, complete incident investigations, complete worksite inspections and track corrective actions, manage contractor safety, and track safety training completion. The SMS was introduced with the goal of raising greater awareness and visibility of health & safety processes, improving record keeping and ultimately building a stronger safety culture together. For general inquiries regarding Safety Spectrum, please contact srs-sms-feedback@sfu.ca.
+
+Login to Safety Spectrum
+
+Incident Reporting & Investigation 
+
+The Incident reporting & investigation module allows users to report safety incidents in a timely manner. Online incident reporting ensures incident details are documented to allow for incident investigation and prevention of similar incidents on campus and, if an incident evolves into a claim, the incident report supports the worker's claim for compensation through WorkSafeBC. Corrective actions identified during the incident investigation are tracked to ensure clear assignment of responsibility and timely completion.
+
+Additional information about incident reporting is available here.
+
+Training Records
+
+The training records module allows employees to track their safety training completion and generate training certificates.  In addition, Supervisors can view the training records of their direct reports to ensure all mandatory safety training has been completed.  The SMS links directly with Canvas and Peoplesoft, keeping records accurate, up to date, and easy to track.  The training records module will issue training expiration reminders and support compliance reviews.  
+
+A list and description of available safety training courses is available here.
+
+Inspections
+
+The inspections module allows users to perform and record ergonomics assessments in real-time, access historical data, and monitor trends. It facilitates the tracking of corrective actions, helps make inspections more collaborative, and improves record keeping. 
+
+The Inspections Management module is a tool for safety committees, Lab Managers, EHS staff and other SFU employees who are responsible for performing inspections of their workplaces.  Existing inspection templates for safety committees, laboratories, workstation assessments, specialized equipment and other hazard-specific assessments are available in the system. Additional information about workplace and lab inspections is available here.
+
+A video recording of a recent demo session is available here.
+
+Frequently Asked Questions (FAQs)
+
+8888 University DriveBurnaby, B.C.Canada V5A 1S6 
+
+Simon Fraser University respectfully acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo and Tsawwassen peoples on whose unceded traditional territories our three campuses reside.
+

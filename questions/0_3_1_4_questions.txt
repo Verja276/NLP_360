@@ -1,0 +1,12 @@
+Which social media platforms are mentioned in the extracted text?
+Does the extracted text include a "read more" prompt?
+Is Facebook listed in the extracted text?
+Is Twitter listed in the extracted text?
+Is Instagram listed in the extracted text?
+How many social media platforms are named in the extracted text?
+What phrase suggests there is additional content to view?
+Are the social media names presented as links or icons in the extracted text?
+Does the extracted text include any other words besides "read more" and social media names?
+Is there any indication of sharing options in the extracted text?
+Which social network appears first in the list?
+Does the extracted text include an ellipsis?

@@ -1,0 +1,35 @@
+F T I
+
+With a lot of information swirling around about the risks and rewards of generative Artificial Intelligence (GenAI), it would be normal to feel overwhelmed about deciding whether to or how to use GenAI tools when completing your coursework.
+
+As an SFU student, one of your main tasks is to gain knowledge and be able to use and apply that knowledge in a variety of contexts. Additionally, a key responsibility of SFU students includes not engaging in any act of dishonesty, falsification, misrepresentation or deception in your academic work.  
+
+GenAI tools such as ChatGPT can be used constructively to support learning but when used inappropriately can interfere with meeting the learning objectives that you must satisfy to receive your SFU credential. Check out the FAQ on how to uphold your academic integrity obligations in the age of GenAI.
+
+How will I know if I can use GenAI tools such as ChatGPT or BingChatAI?
+
+The only way to know if you are permitted to use generative AI for your course assignments is by checking with your course instructor, who will likely communicate this in the course syllabus. If you are unsure, you must not assume that using generative AI is permitted. As generative AI becomes more advanced, it may be embedded in many systems that we use to communicate, create and record information. For example, you can choose to integrate ChatGPT into Microsoft Word. This may be appropriate for your non-academic tasks such as composing an email or creating a resume. When it comes to academic tasks like homework assignments, essays and exams, you must not use generative AI unless it is explicitly permitted by your instructor in the syllabus and/or exam instructions.
+
+If my instructor permits the use of GenAI systems, do I have to cite the use of the technology?
+
+Yes! Even if your instructor permits the use of GenAI, you must not do so without appropriate citation. This is because you must be transparent about the aids you use as part of commitment to academic integrity. When using generative AI, keep a record of the prompts that you used within the technology to generate the output you use in your coursework and remember to cite. See side bar for information on how to cite ChatGPT in APA and MLA.
+
+Am I cheating if I use generative AI in my assignments?
+
+With every course, your instructor will set out learning objectives for the students to meet. Your instructor evaluates students on how well those objectives are met; this results in your course grade. Using GenAI (or any other tool/technology) when it is not permitted for the course assignment is considered a form of cheating and can result in disciplinary action under the student academic integrity policy. This is because it interferes with your instructor’s ability to evaluate your knowledge and is unfair to other students in the class who follow the class rules.
+
+Can I rely on GenAI tools to give me accurate and unbiased information?
+
+GenAI can be a valuable tool that allows users to save time by efficiently gathering relevant information from a large dataset. Since those datasets can be comprised of conflicting information, it is entirely possible for errors to be contained in the output. To evaluate the output, a user must be aware that errors such as outdated information, false references, and even biases can exist in ChatGPT responses. Students who use ChatGPT with their instructor’s permission must carefully evaluate the output information for errors and be proactive against bias by using multiple prompts to get different perspectives. As with any tool, GenAI is best in the hands of a responsible user.
+
+Learn about Generative AI, its risks to academic integrity and when it can be appropriate to use it.
+
+SFU Guidance: Using Generative AI in Your Coursework
+
+8888 University DriveBurnaby, B.C.Canada V5A 1S6 
+
+Simon Fraser University respectfully acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo and Tsawwassen peoples on whose unceded traditional territories our three campuses reside.
+
+Terms & ConditionsPrivacy policy© Simon Fraser University
+
+

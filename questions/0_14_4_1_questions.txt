@@ -1,0 +1,48 @@
+- Why can’t I log in to Safety Spectrum as a visiting scholar or researcher?
+- Who can access Safety Spectrum?
+- How can a visiting researcher access their training records?
+- Why am I receiving emails from “SFU Safety”?
+- What kinds of automated notifications does Safety Spectrum send?
+- When are training reminder emails sent?
+- Why don’t I receive reminders for some certifications?
+- What are action items and corrective actions in Safety Spectrum?
+- Why did I get an email about an action item or corrective action?
+- How do I view full details of an action item or corrective action?
+- Why am I receiving contractor-related emails as a project manager?
+- Why can’t I see incident reports, training records, or inspections for my direct reports?
+- How does Safety Spectrum get employee and reporting relationship data?
+- What should I do if my reporting relationships in MyInfo are incorrect?
+- Why aren’t TAs, graduate students, or some RAs reflected in reporting relationships?
+- How do I assign a certification to myself in Safety Spectrum?
+- Where is the Add Certification button on the dashboard?
+- How do I register for a Canvas course from Safety Spectrum?
+- How do I assign a certification to a direct report?
+- How do I access my team’s training status matrix?
+- Why do I see training records for employees who have left the university?
+- How long do user profiles remain active after employment ends?
+- Why hasn’t my Canvas course completion shown up in Safety Spectrum?
+- How long does it take for Canvas training records to sync with Safety Spectrum?
+- What should I do if my in-person training completion is not showing?
+- Why is Office Ergonomics required for me?
+- Who determines which certifications are required for my role?
+- Why isn’t my SFU Safety Orientation taken over 10 years ago reflected in My Training Stats?
+- How do I print an individual training certificate?
+- What is the difference between a training certificate and a training summary report?
+- How do I generate a training summary report in Safety Spectrum?
+- Why do my training certificates look different now compared to older ones?
+- Is there training available to help me conduct safety inspections?
+- Can I complete a single inspection checklist for multiple rooms?
+- How do zones work for inspections in Safety Spectrum?
+- How do I request a change to an inspection checklist question?
+- Who can make changes to inspection checklists?
+- Why can’t I select an asset to inspect in the dropdown?
+- How do I request inspector access for an asset?
+- Are all fields on the incident report form mandatory?
+- Do I need to add my supervisor to an incident report?
+- Why does an incident remain marked as “Incomplete” on my dashboard?
+- Could blank signature fields cause an incident to remain incomplete?
+- How long do incident investigations usually take to complete?
+- How do I access Safety Spectrum as a contractor?
+- What should I do if I have trouble logging in as a contractor?
+- Where can I find contact emails for Safety Spectrum support and contractor support?
+- Who should I contact for questions about specific certifications?

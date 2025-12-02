@@ -1,12 +1,18 @@
-1. How can I book an appointment for counselling support at Health & Counselling?
-2. What types of counselling services are offered to SFU and FIC students?
-3. How many appointments are typically recommended for brief counselling at Health & Counselling?
-4. What happens during a Rapid Access/Intake Appointment for mental health support?
-5. How can a returning client schedule a rapid access/intake appointment?
-6. What specialized counselling support options are available at Health & Counselling?
-7. How far in advance can appointments be booked at Health & Counselling?
-8. What is Single Session Counselling Follow-up and when is it scheduled?
-9. What types of concerns are well suited for short-term counselling at Health & Counselling?
-10. How can students access group-based programs at Health & Counselling?
-11. What is My SSP and how can SFU students access this service?
-12. Are there community resources available for counselling and mental health support?
+What phone number is listed for contact?
+What email address is provided for contact?
+Which social media platforms are mentioned?
+How can I book an appointment?
+What call-to-action prompts appear on the page?
+How many times is the phone number 778.782.4143 shown in the extracted text?
+How many times is the email success@sfu.ca shown in the extracted text?
+What is the domain of the contact email address?
+What is the area code of the listed phone number?
+Is there an invitation to "JOIN NOW" on the page?
+Is there an option labeled "Book an appointment" on the page?
+Are there any contact methods listed besides phone and email?
+Does the extracted text include a physical mailing address?
+What is the username portion of the contact email address?
+Are Facebook, Twitter, and Instagram listed as contact options?
+Is the phone number formatted with periods between number groups?
+Is the phone number identical in each occurrence?
+Is the email address identical in each occurrence?

@@ -1,0 +1,74 @@
+1.
+- Check with your course instructor and the course syllabus — you must not assume GenAI is permitted for assignments or exams.  
+- Do not use GenAI for academic tasks (homework, essays, exams) unless explicitly allowed by the instructor.  
+- If permitted, you must cite GenAI use and keep a record of the prompts you used.  
+- Using GenAI when it is not permitted is considered cheating and may lead to disciplinary action.  
+- Critically evaluate GenAI outputs for errors, outdated information, false references, and bias; verify information with multiple sources and prompts.  
+- GenAI may be appropriate for non-academic tasks (e.g., composing emails or resumes) but still use responsibly and transparently.
+
+2.
+Your course instructor — check the course syllabus.
+
+3.
+In the course syllabus.
+
+4.
+Check your course syllabus and exam instructions and, if still unsure, ask your course instructor directly. Do not assume GenAI is permitted; if you are uncertain, do not use it for the assignment.
+
+5.
+Yes — GenAI can be embedded in other software (e.g., ChatGPT integrated into Microsoft Word). It may be appropriate for non‑academic tasks (composing emails, resumes), but you must not use it for academic work (homework, essays, exams) unless explicitly permitted by your instructor in the syllabus or exam instructions.
+
+6.
+Yes — it may be appropriate to use GenAI-integrated tools for non-academic tasks such as composing emails or creating a resume.
+
+7.
+No — you must not use GenAI for homework, essays, or exams unless your instructor explicitly permits it in the syllabus or exam instructions. If you’re unsure, do not assume permission; unauthorized use is considered cheating and may lead to disciplinary action.
+
+8.
+Yes. Even if permitted, you must cite generative AI, be transparent about its use, keep records of the prompts you used, and follow the provided citation guidance (e.g., APA or MLA).
+
+9.
+The prompts you used to generate the AI output you include in your coursework.
+
+10.
+See the sidebar.
+
+11.
+Yes. Using GenAI when it is not permitted for a course assignment is considered cheating and can result in disciplinary action under the student academic integrity policy, because it interferes with your instructor’s ability to evaluate your knowledge and is unfair to other students.
+
+12.
+Because it interferes with your instructor’s ability to evaluate your knowledge and is unfair to other students; using GenAI when not permitted is considered cheating, can prevent you from meeting learning objectives, and may result in disciplinary action.
+
+13.
+- Considered a form of cheating
+- Disciplinary action under the student academic integrity policy
+
+14.
+No. GenAI can produce useful, time-saving outputs but may contain errors (outdated information, false references) and biases. Always evaluate and verify its output against reliable sources, use multiple prompts or perspectives, and be proactive about checking for bias and accuracy before using it in your coursework.
+
+15.
+Outdated information
+False references
+Biases
+
+16.
+- Carefully evaluate the output for errors (outdated information, false references, factual mistakes).  
+- Cross-check facts and claims against reliable, primary sources.  
+- Use multiple prompts and rephrase questions to obtain different perspectives.  
+- Consider known limitations and training-data biases of the GenAI system.  
+- Inspect and verify any references or citations the model provides.  
+- Document the prompts you used and cite the GenAI tool where required.  
+- Apply critical thinking rather than accepting responses at face value.
+
+17.
+Not engaging in any act of dishonesty, falsification, misrepresentation or deception in your academic work.
+
+18.
+On SFU’s guidance page “Using Generative AI in Your Coursework” — see the FAQ on upholding academic integrity in the age of GenAI.
+
+19.
+8888 University Drive, Burnaby, B.C., Canada V5A 1S6
+
+20.
+xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil‑Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo, Tsawwassen
+

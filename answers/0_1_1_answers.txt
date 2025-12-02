@@ -1,53 +1,121 @@
 1.
-- To provide students, faculty, and staff with information about their responsibilities and rights as members of the SFU community
-- To offer support and consultation for concerns related to student well-being and conduct
-- To ensure a civil, safe, and respectful learning environment at SFU
-- To address non-emergency student support concerns and referrals
-- To assist faculty and staff in addressing student safety, well-being, and impact on others
-- To provide resources and guidance on student conduct and academic integrity
-- To intervene and provide support for students in distress or exhibiting disruptive behavior
-- To respond to disclosures of violence, harassment, or direct threats
-- To prioritize student safety and well-being in the educational environment
+Manage and view your student record
+Keep track of important dates and deadlines (enrolment, course changes, tuition payments, refunds, graduation)
+Pay tuition and fees; make payments; set up direct deposit; accept financial aid and awards
+Enrol in classes online; download enrolment confirmation letters
+Check academic progress and view grades; access your Academic Progress Report
+Apply to graduate and download completion confirmation
+Order official transcripts and download advising transcripts
+Give someone access to your student/personal information or designate document pickup
+Update personal information (emergency contact, information release, phone numbers, addresses, gender identity)
 
 2.
-Students can contact the Office of Student Support, Rights & Responsibilities.
+SFU students, FIC students, alumni, staff, faculty
 
 3.
-Faculty and staff can share concerns about students with the Office of Student Support by contacting them via phone at 778.782.5699, email at ssrr@sfu.ca, or online through the "Share a concern" form.
+They log in using their Computing ID.
 
 4.
-Phone: 778.782.5699
-Email: ssrr@sfu.ca
-Online: Share a concern
+Log in to https://applicant.sfu.ca with their 9-digit SFU student number and temporary password.
 
 5.
-Call 911.
+this page
 
 6.
-Monday – Friday: 9:00 am - 4:30 pm
-Weekends & holidays: Closed
+Once they receive an email indicating their Computing ID is available.
 
 7.
-- The S10.05 Student Conduct Policy
-- Academic Integrity web site
-- Policies and Procedures web site
+gradap@sfu.ca
 
 8.
-- Identify the experience or behavior you are witnessing
-- Read the recommended response
-- Consult with the Office of Student Support, Rights & Responsibilities
-- Develop an approach to appropriately intervene and provide support for the student
-- Administer the Student Conduct Policy as part of the response if necessary
+No. Alumni retain access to goSFU after graduation; the only exception is those who graduated before 2009, who may need to reactivate their accounts.
 
 9.
-- Uncomfortable behavior: Read more
-- Distressed behavior: Read more
-- Disruptive behavior: Read more
-- Disturbing behavior: Read more
-- History of violence or fear of harm: Read more
-- Persistent harassment: Read more
-- Direct threat to harm self or others: Read more
+Alumni who graduated before 2009
 
 10.
-Faculty and staff can find more information about responding to students in distress by downloading the "Students in Distress - Response Guide for Faculty and Staff."
+By following the SFU account reactivation instructions (see the instructions on go.sfu.ca).  
+If they've forgotten their Computing ID, recover it through Computing ID Lookup.
+
+11.
+Recover it through Computing ID Lookup.
+
+12.
+Your SFU Computing ID is Available
+
+13.
+Instructions on how to activate your Computing ID.
+
+14.
+- Make payments online
+- Set up direct deposit
+- Accept financial aid and award offers online
+
+15.
+Make payments
+Set up direct deposit
+Accept financial aid and award offers
+
+16.
+- Sign in to goSFU Student Centre (go.sfu.ca) using your SFU Computing ID.  
+- Go to the Enrolment/Manage Classes section in your Student Centre.  
+- Select your courses and complete the online enrolment during your enrolment period (check dates and deadlines).  
+- Download the enrolment confirmation letter if needed.  
+- For help, use LiveHelp or contact Registrar and Information Services (reginfo@sfu.ca, 778‑782‑6930).
+
+17.
+The Student Centre on go.sfu.ca
+
+18.
+View your Academic Progress Report (APR) to learn about your program requirements and track your academic progress.
+
+19.
+Student Centre (goSFU)
+
+At the end of each term.
+
+20.
+In your Student Centre on go.sfu.ca
+
+21.
+Apply for graduation online through your Student Centre (goSFU).  
+You can also download a letter confirming completion of your studies.
+
+22.
+Within your Student Centre (go.sfu.ca)
+
+23.
+Order it online through your goSFU Student Centre — select the Official Transcript/Transcript Requests option.
+
+24.
+Log in to goSFU (Student Centre) with your Computing ID and download the advising transcript from your Student Centre.
+
+25.
+Grant them access via your goSFU Student Centre—set an information release/designation to allow access to your student/personal information or authorize someone to pick up documents on your behalf.
+
+26.
+Log in to goSFU with your Computing ID and update your personal information (emergency contact, information release, phone numbers, addresses, gender identity, etc.).  
+Log in to myINFO and make the same updates there.
+
+27.
+Emergency contact, information release, phone numbers, addresses, gender identity
+
+28.
+reginfo@sfu.ca
+778 782 6930
+778 782 4969
+
+29.
+Using the Future Students portal.
+
+30.
+Services: Quick questions about goSFU, enrolment, academic dates and deadlines, tuition, university policies and regulations, transcript requests, SFU ID cards, form completion, and custom letters.
+
+Access: Launch LiveHelp and sign in with your SFU computing ID through a secure connection.
+
+31.
+8888 University Drive, Burnaby, B.C., Canada V5A 1S6
+
+32.
+xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo, Tsawwassen
 
